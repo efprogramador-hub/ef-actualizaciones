@@ -1,0 +1,8 @@
+{
+  "programa": "cafeteria_ef",
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.2-3/CafeteriaEF_1.0.2-3.zip",
+  "sha256": "870115aa921b0073ad652948a6bdbc7c1fbfbf4bce27685ed2a305e902c3f208",
+  "firma": "8BC1314C0C64C5C436D0FD2C00D6738D800A071B066286C03300018F707A0CCC0938E6CD7F294381352900E58C8C33A4E5A87F90E7EA0F8FAD225150B21E250F",
+  "notas": "Prueba del actualizador automático (mismo programa que la 1.0.1)"
+}
