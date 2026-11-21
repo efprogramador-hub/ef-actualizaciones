@@ -1,0 +1,8 @@
+{
+  "programa": "ofix_cafe_android_arm64",
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.2-3/OFIX_CAFE_1.0.2-3_arm64.apk",
+  "sha256": "7e6358605254cfd699765ea0dc07d14b91ae29b4a4a420a50ae8bab6b1197f45",
+  "firma": "548A75B3F8257430A23B02C4DAB8E372945564CF7BEF8245C04CCA95CB90991FE462450DAF6C3B5581F603A203F0DEA9E19FA1D41A1D7FE46EA6ED4A1AA35201",
+  "notas": "PRUEBA DE ACTUALIZACION"
+}
