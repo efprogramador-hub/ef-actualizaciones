@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.4-5/RestauranteBarEF_1.0.4-5_arm64.apk",
-  "sha256": "5caaba7f05146b8311b03651085422fa367d54a9e7add0b416f59f2a524c753d",
-  "firma": "C2831B242168CD14229616387429B23138F9F86EF74DE525599EA7FA136453AEEF2730083BFC106B1A075F293C96A5C9670821C6B7AD9E15EDFDFA8934079907",
-  "notas": "PERMISO PROMOCIONES PARA PERSONAS AUTORIZADAS"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.5-6/RestauranteBarEF_1.0.5-6_arm64.apk",
+  "sha256": "763662d32d9d6857f47ec43d87a46e1c60b1ef01c0a69c53d2b798d5d1ba8cff",
+  "firma": "54C9DA979B07E7A89644AB701E7E6D1F1AB1E5CA6E7C8D418212F417A6E9B0B3652F470CFA7BED61833A2FE54637BF30D7B0E2CDC6DA72B4AF5494760EB7C10C",
+  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
 }
