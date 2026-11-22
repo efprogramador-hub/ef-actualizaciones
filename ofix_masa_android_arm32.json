@@ -1,0 +1,8 @@
+{
+  "programa": "ofix_masa_android_arm32",
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-android-v1.0.2-3/OFIX_MASA_1.0.2-3_arm32.apk",
+  "sha256": "0b7118cd18d100f1e283278c2cb9387c19da8d3a59e826e9ca2c655582986bce",
+  "firma": "7C73F3C61013453AB3FF88BF29F7B114EB30BE8027D1D3F6408C6B7CF121922526FF8CC8476D357C5B8C3B9AA0FA1066F1FD96618E974CE698293B2566CD9800",
+  "notas": "ACTUALIZACION: AHORA MUESTRA LA VERSION EN EL PIN"
+}
