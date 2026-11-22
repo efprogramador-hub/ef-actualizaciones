@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar_android_arm64",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.1-2/OFIX_BAR_1.0.1-2_arm64.apk",
-  "sha256": "11b8dd1c4970594a3d61265bd26ab85cf24c652ec5a238027648a616db502fb6",
-  "firma": "78A6B8282EE926C3506B5BA34840353D34F1915CF51D9380DA6F77B9348CCD15839583F4730804241E4BBB83A116A3997BA56373A0A60C4875387E379FAEAF04",
-  "notas": "VERSION NUEVA DE OFIX_BAR"
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.2-3/OFIX_BAR_1.0.2-3_arm64.apk",
+  "sha256": "624ee02c470e4095728e1aef93b4d269ec36cdbf3a5f36f0f96d3e2b0bbad963",
+  "firma": "FCC229ED4060774AD8C80CE83BC4AE3F087554F3EF721BECB6EDFD300C5F84A76B8E2DE8424DB900E652AFE50DDDB103E3067BD3E7D252060A1AFB3018F37206",
+  "notas": "PRUEBA DE ACTUALIZACION"
 }
