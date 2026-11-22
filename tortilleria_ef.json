@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.2-3/TortilleriaEF_1.0.2-3.zip",
-  "sha256": "1ef90174936f6171bdbfa39222a6e08d6c92b2fe72165e4b9abca1d159eca36a",
-  "firma": "10ED8F84BE37848495C2387A5241CBFD836E1449EAF44CEA5FB5CDA757CE109901B0805B7CC6FA2C399605F30244154C03E84233A07717B24A87C3C605571701",
-  "notas": "ACTUALIZACION AUTOMATICA EN WINDOWS"
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.3-4/TortilleriaEF_1.0.3-4.zip",
+  "sha256": "890a43443c8e067d8dd33dcb045046ebce31964b79f0a8a0b1697920662dcce7",
+  "firma": "8B382D6EBFFCD2E226C072CC54F98DF6757931BAC207DAEFCC30E387B9BEC605AC9111C01BEC28AF6F6F0FE6D5CC736BD6C18D0E5865BFCFA01E2A6F73E5530F",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
