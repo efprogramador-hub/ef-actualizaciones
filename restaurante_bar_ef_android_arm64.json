@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.5-6/RestauranteBarEF_1.0.5-6_arm64.apk",
-  "sha256": "763662d32d9d6857f47ec43d87a46e1c60b1ef01c0a69c53d2b798d5d1ba8cff",
-  "firma": "54C9DA979B07E7A89644AB701E7E6D1F1AB1E5CA6E7C8D418212F417A6E9B0B3652F470CFA7BED61833A2FE54637BF30D7B0E2CDC6DA72B4AF5494760EB7C10C",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.6-7/RestauranteBarEF_1.0.6-7_arm64.apk",
+  "sha256": "28fa888c97f153b6dea686263ad20f9f982b96c47e8a458b28c158d76339b7b6",
+  "firma": "C21E6D815BF9E61E3290CEA3190BC91A218830D8A74EC1EA911C29BED1644F3572BDE547FE971E32E042B1192F8F00008DB072BF4D248297AC115D7A5AD1340B",
+  "notas": "VENTA LIBRE: COBRAR ALGO QUE NO ESTA EN EL MENU, CON CANDADO Y PIN"
 }
