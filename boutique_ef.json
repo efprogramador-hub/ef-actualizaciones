@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.5-6/BoutiqueEF_1.0.5-6.zip",
-  "sha256": "ba9fa343f55c90c7be89c39f7a39b777d40dd05916a915103717b1a0392c6300",
-  "firma": "299DBFAE6308096404FC61278BAF2B065194977330518D16B944728EC26E7F4381589F0C9AADD338DBF2840A426AD4320E99C3586815E95AE35FD191483C5B01",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.6-7/BoutiqueEF_1.0.6-7.zip",
+  "sha256": "1e467b82caf287aca7607f4132a4ceee29023ea506f8b114f52dfe7d7d3e109f",
+  "firma": "471AB627AFDC7A1B53203A263962F11913B49E95F8C0D41C1D8BA49E94542B064DC8C466B22AF9047ED8F3F5C80DCDF76BAAC737BA9B89F859E481E397ECCC0C",
+  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
 }
