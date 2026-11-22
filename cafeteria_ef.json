@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.5-6/CafeteriaEF_1.0.5-6.zip",
-  "sha256": "a5704757278d6e054a84f35d02737c325009fc98f577e4e26cc42fa27b276f6e",
-  "firma": "02BB9BDBB87C727CB0B59A99506A3B4C4B34674B0085D8DF9EECB4ED1E884E2D2AEA311B96B2E7A10B50FF55DB3C57457AAA6A5EC7890B2B032699604F1EF60A",
-  "notas": "ACTUALIZACION AUTOMATICA EN WINDOWS"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.6-7/CafeteriaEF_1.0.6-7.zip",
+  "sha256": "986720218d738c9322bc14a89785accdf78efc0c4506e942811df6311c840b86",
+  "firma": "8B20B5849111D643EE3436F139DBC9FF8C6B43EA2A975E8EB4AFBB1076A797C53960C82747852084C10FF33849C8EC63E4344299147B03FF58A0D0BD5AC5A705",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
