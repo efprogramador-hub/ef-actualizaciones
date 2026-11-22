@@ -1,0 +1,8 @@
+{
+  "programa": "ofix_masa",
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-v1.0.2-3/OFIX_MASA_1.0.2-3.zip",
+  "sha256": "dd0ee986b736a2742ccce7f65fb3be84ccd9b32a3342c3f9c9c687ef2c4e1e13",
+  "firma": "050FCE508EBC2EF62BC1B81058A716398FC7641F602A3BB757CF8774CFE52FE3A9ED4CEADF8FB5B243523EA7DA7E9EE2BDFEB415CD31427A970A904447F19202",
+  "notas": "ACTUALIZACION: AHORA MUESTRA LA VERSION EN EL PIN"
+}
