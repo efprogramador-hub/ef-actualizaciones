@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.3-4/OFIX_BAR_1.0.3-4.zip",
-  "sha256": "9d600ed6bdc496d2c9d89ea5b0574e608cb31f88e329dae6e4ad93aec8979072",
-  "firma": "239553A1A19E8237E84FAEE86E475F58C025B6BE0B09C9D80C0330092E4AAC4CC5AF0DE48D1BB8783AE89908B5A9F1A963425353C66A14CEE0662D3A99BC0B01",
-  "notas": "CORRIGE APERTURA EN ANDROID"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.4-5/OFIX_BAR_1.0.4-5.zip",
+  "sha256": "23e61f6bb7a15489757b2b91d18990e23fb3a6685a8a4648a3c9d0c58c4b5a9a",
+  "firma": "15B935DB003C36FC08D7E9C9120EFB9903E4BC5B18A63E8B363FD9752CF48348A8C5728FC77CD142A9CC9DC35BA778E84F9C3FBF4906D94D4598DEF961D2A708",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
