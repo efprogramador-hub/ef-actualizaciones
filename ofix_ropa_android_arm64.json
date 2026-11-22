@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa_android_arm64",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.3-4/OFIX_ROPA_1.0.3-4_arm64.apk",
-  "sha256": "a87ef522dbafea0fb50ae2a535b200e873b644323b7e3753f125a415674c062f",
-  "firma": "CDF77AA3AA7EDC83AFB7AA18767B035406ADC6278022E03CB69B3F8D1FA0840B27CCAE56ACDDB18561D8936053B6D7B80E25349A00BA45D61EF33F79EBC7B703",
-  "notas": "CORRIGE APERTURA EN ANDROID"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.4-5/OFIX_ROPA_1.0.4-5_arm64.apk",
+  "sha256": "a347b5072796063139c4ebe804bf714d8325d59998ff5068555643548b4881a2",
+  "firma": "A7B20180DB457C7C7D45C05F979F8FE08DED7E0D9C0D13384C3E60D9481234E4FFBFBE2440BB6CBEFB1D2B7E7B62D5964B041E28E7880888771451465EC6040A",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
