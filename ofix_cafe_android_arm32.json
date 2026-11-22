@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe_android_arm32",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.4-5/OFIX_CAFE_1.0.4-5_arm32.apk",
-  "sha256": "ecfa65c34dd9d8e35127fd984823a72cb15967391ce6e6d3cca1aa018361a96a",
-  "firma": "39F644B058F4CF2A37BAAD1D67A2D715EEADB733D65F166B3EA34D00A90AA890564329DB1E2EAAAAB54A29B336CA7A890E68BE69C2F2246B890CB476C0252204",
-  "notas": "ACTUALIZACION: AHORA MUESTRA LA VERSION EN EL PIN"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.5-6/OFIX_CAFE_1.0.5-6_arm32.apk",
+  "sha256": "284dd6dcdf4ada5768d99cfba253c26a9610091879eb935269dee76b2383a350",
+  "firma": "DAFB1DE4E2899FE1DD97AEA5405559E6730D792724128C164402F76DA5039AA4C838D706424786D968BC990C19FFCF14E3FE9DBEB467FD40127D1ADD7C966002",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
