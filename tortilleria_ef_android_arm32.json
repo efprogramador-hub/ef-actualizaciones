@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.2-3/TortilleriaEF_1.0.2-3_arm32.apk",
-  "sha256": "5bd047052ee96410a2c63ec57cc7132251164114323fe931a3b674ae04a7e6ca",
-  "firma": "C1A9B90B0192AF8F044D2EE9EE5AFC2997AD0E359051A82A2091C59DDD3EAF354F8BBEC798A7EEDA9DA26F716E7FF2E5A2CEA99995C53433874A14E6D1E4E001",
-  "notas": "ACTUALIZACION AUTOMATICA EN ANDROID"
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.3-4/TortilleriaEF_1.0.3-4_arm32.apk",
+  "sha256": "918b696b93be9ad58e3592bd094c0fe2bff2df57d408db0211a28ba10e94355e",
+  "firma": "85CD2674811EA4A9CEBA4A480777A0487D1426E5DE54F05B8E44386C7E4C226FF093CDCE5058435D35B4DB4B2F594AC67B72121F321885A7AB19EA7F038BAF00",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
