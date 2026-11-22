@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.1-2/OFIX_ROPA_1.0.1-2.zip",
-  "sha256": "e4b939d75c905888567715d40041e44ed6c2911e475f94ed33457aae80114c6e",
-  "firma": "684250F81AFF2C3CE7E4DF07BE2F66ECD234BE962027557E0B0FAFF60EF36E28252E93BA52A759DBF9309576EC51E0C54EC9CEB727030CEF25FC944E70DF0C04",
-  "notas": "VERSION NUEVA DE OFIX_ROPA"
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.2-3/OFIX_ROPA_1.0.2-3.zip",
+  "sha256": "bb65ea74c6b654b42ecbeb7150a7f15d836837f0558b1741067ab284cea4c8d9",
+  "firma": "9A67C97C603A72FC497A28C09736AF548AF64C5217AD28C6547536760F9D8C0C196B4D61034D0B4C44477FDBB477BD00C775D59654B68A0E6A70F60052FB1500",
+  "notas": "PRUEBA DE ACTUALIZACION"
 }
