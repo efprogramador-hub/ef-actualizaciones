@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.1-2/OFIX_BAR_1.0.1-2.zip",
-  "sha256": "7b793f9ebb076e6d793ae8432ae335e2ba361d1db4099b6f2012c79f7def178d",
-  "firma": "846E3FE96B631932FB26777696ED967217E9E718D7B40400BA446C4AAE40446A1E3FBA4CD0624748BBB3ABF7A0FBCF6DF40D1A8504F659CAA90100453D9AAF0F",
-  "notas": "VERSION NUEVA DE OFIX_BAR"
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.2-3/OFIX_BAR_1.0.2-3.zip",
+  "sha256": "7f00cfed9a7a6301b47d344f8df68f9b9bf27c8ec26ea89554122968ff6aee94",
+  "firma": "7E09746017E312DA0468F724309F77BB8E465763176CA7E8991850C51BF69B89A620705463CD64B6FC7A260E02B819C78C3D2B2BBC91C27667DEA2FAA12C6A00",
+  "notas": "PRUEBA DE ACTUALIZACION"
 }
