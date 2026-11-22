@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.2-3/RestauranteBarEF_1.0.2-3.zip",
-  "sha256": "454a2198aad251fbd513c21485309377f88926d446d8c3ed850a8bc452dba86f",
-  "firma": "2A3665CFA94086B204B230AB90A56C2A25E60BDAF544E3523D203139C52A3CB2C1983CD83E68FBE60503D3FFEE9E215172073E03B71BEF348E1BFC8EA3EDF706",
-  "notas": "ACTUALIZACION AUTOMATICA EN WINDOWS"
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.3-4/RestauranteBarEF_1.0.3-4.zip",
+  "sha256": "a24e8e08df66df0943041c15af1e8160e4c90ed9733409c8c709f7cda4e0fbc0",
+  "firma": "F0572B9BC4819FB6D1C743907C6F5EAAC6AC2264AB95F9E08350A508ADD76EC8775E6810696A0F3B06F16927A329E3C6E6B9A234042A7CA25359BA9BC67BFB00",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
