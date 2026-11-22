@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.3-4/RestauranteBarEF_1.0.3-4_arm32.apk",
-  "sha256": "41a244025fd0b0094289e5267422f9fec63ea05e835d221da3a47099e46cd326",
-  "firma": "FC93CFCCBFE1D9C90792B6995960538DB3C8E13E3750F3A79DA1B1FB9AE8417586C138FEC54C120E7F0253EC9FA742007C409FA8C32DEA9B3FD1C6C44D18A105",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.4-5/RestauranteBarEF_1.0.4-5_arm32.apk",
+  "sha256": "000af7d40bf8057994d1a852418627dda19f5de9aef09385a8a2daa626e22aa4",
+  "firma": "EA308650CD35B53C14362AC779CF74B2328B136133EC2ED5FD3BB06665B01AA19510FA17DEC12284F0C6DA9F35251E4F4BAAF745B83DC71A128A1CA39DB0B608",
+  "notas": "PERMISO PROMOCIONES PARA PERSONAS AUTORIZADAS"
 }
