@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.4-5/BoutiqueEF_1.0.4-5_arm32.apk",
-  "sha256": "deb88f4550322bb97a04eb008322fa0fa35385adb995f21a07ec99e10292196f",
-  "firma": "0B58D185C977B3F214DA5A215329A1D76FF5F6467FC3A1EB06CE81EAAFFFDA5CB8FFDAC91621A58F320B4AAD60CDBC5F40F786A1C2D0EE171D02C206A5454300",
-  "notas": "ACTUALIZACION AUTOMATICA EN ANDROID"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.5-6/BoutiqueEF_1.0.5-6_arm32.apk",
+  "sha256": "2f9c4a72259f6f4c5ee5286d4dee0936fd3f7951f52756009197da6c8e2dab7b",
+  "firma": "2AF15616406A9DA1A965D59AAA55A6F99EF4FDA2358F4D2E40A99103225A1F9BD7959018412DE7E0900C3A889E3EEDE815DB260D7B6A864BB9744C6F85DEA403",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
