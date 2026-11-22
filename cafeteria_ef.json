@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.6-7/CafeteriaEF_1.0.6-7.zip",
-  "sha256": "986720218d738c9322bc14a89785accdf78efc0c4506e942811df6311c840b86",
-  "firma": "8B20B5849111D643EE3436F139DBC9FF8C6B43EA2A975E8EB4AFBB1076A797C53960C82747852084C10FF33849C8EC63E4344299147B03FF58A0D0BD5AC5A705",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.7-8/CafeteriaEF_1.0.7-8.zip",
+  "sha256": "c4bf5ff8e49264d5edef5c51e318c4f45bfbed9ad6d57e2b577f2c1705ea3e44",
+  "firma": "FFBC98658878977CE24002C5A8649E32010EF112607A84CA95BD2C7D94A0A13206E2DF51B2906C0E83CCB303198B7D7C3F53E218FCB35118074C39DCED5BB70D",
+  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
 }
