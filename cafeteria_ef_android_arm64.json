@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm64",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.6-7/CafeteriaEF_1.0.6-7_arm64.apk",
-  "sha256": "c432238c7b8b8b194295c67750048ed298bb8d97836c6e8699aeb7feeca8a15b",
-  "firma": "2873FC0D68188FF82846948CFC44D0CCF88C1CE1B8BFAA95A70D4A3D5431099F17282FF1B6A4D57262F78950EF3DE1040ABE0DAB578ADFDFC5B951A0D95C740D",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.7-8/CafeteriaEF_1.0.7-8_arm64.apk",
+  "sha256": "70c295c1e6779b29a789e69d2ae55be2bcb7d38775081913242903248077764f",
+  "firma": "A6DB2C1541DE8F746D3976ABE4197204516B57633A968B04285B60F58951FF45CFB777AF1A21CDC91FB62DBECAD9899BA65584413D936DFC4039332C9CF9A908",
+  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
 }
