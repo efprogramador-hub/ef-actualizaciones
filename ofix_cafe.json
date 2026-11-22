@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.3-4/OFIX_CAFE_1.0.3-4.zip",
-  "sha256": "b3e447a48dc76224c8d497ee10dd902412cc6d95ffe196355c86c58224bd4315",
-  "firma": "216AF624CE478F4C496C2798E619326F60897B687B3EC325BA27EB7D83B4C18E33B0DAEE8D946E3EE0EA4153CD99B55735EE9FD06A327FDFC35D6F451F1D440E",
-  "notas": "VERSION NUEVA DE OFIX_CAFE"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.4-5/OFIX_CAFE_1.0.4-5.zip",
+  "sha256": "1e3357c79f054866d6bc87596f324ca9f53686ea5c0575902c3f23d1ca11f080",
+  "firma": "E70E1119BEAFD5A47F88524BE77BBD77F1DB96DF49AC5FAB9A3F0BA6D43951432EB19F151A873EEE07F3A36DFFE86D1B22ABA40FCC1E1B0E86861AEFA0967501",
+  "notas": "ACTUALIZACION: AHORA MUESTRA LA VERSION EN EL PIN"
 }
