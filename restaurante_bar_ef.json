@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.5-6/RestauranteBarEF_1.0.5-6.zip",
-  "sha256": "c166d35ff82d594884bc8222f08d528f1f23b6584f8b16d7f74d1f1580b1ee49",
-  "firma": "BA41E3559220727D2A6FD5C4A532B727D6E6F23B77A77B5934AF4A2F54486F616D4DBBCDB212B1EE8B8156C752371372E56B1AC4745F1103BF15F244B3293405",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.6-7/RestauranteBarEF_1.0.6-7.zip",
+  "sha256": "11aea1581107809c1b66f96aaf49e757431c19fe5b73096af3efe9ed04ba1b00",
+  "firma": "D9B9AF43A090074EA1CAC9C8175D12F1A4D6C45BA836EDC3AD09E3BE6E0767A3ADDC866C552ACB74BE9BCCE4AF066426B7383643D7E6100769A727188CA49D0F",
+  "notas": "VENTA LIBRE: COBRAR ALGO QUE NO ESTA EN EL MENU, CON CANDADO Y PIN"
 }
