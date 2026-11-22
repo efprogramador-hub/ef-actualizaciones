@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.3-4/RestauranteBarEF_1.0.3-4.zip",
-  "sha256": "a24e8e08df66df0943041c15af1e8160e4c90ed9733409c8c709f7cda4e0fbc0",
-  "firma": "F0572B9BC4819FB6D1C743907C6F5EAAC6AC2264AB95F9E08350A508ADD76EC8775E6810696A0F3B06F16927A329E3C6E6B9A234042A7CA25359BA9BC67BFB00",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.4-5/RestauranteBarEF_1.0.4-5.zip",
+  "sha256": "53401d1923ff32a17d8b58a130ae2d97f63dee641b0c222155a804a4f6762ab5",
+  "firma": "006BBF47F7FD6151D8DABE17068EEC60320124969186BD1E15B34B060A681B5EE8A8F9FFB50118D9AB18FD146F8884042D1EA3E6779F386DB1157BD5A5E1D50C",
+  "notas": "PERMISO PROMOCIONES PARA PERSONAS AUTORIZADAS"
 }
