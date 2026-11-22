@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.5-6/CafeteriaEF_1.0.5-6_arm32.apk",
-  "sha256": "33b8b40e8ec9cd3606cdaecb5a47dd3ad12da884fc3e4d26b8fe2b87654e7dc0",
-  "firma": "7BD1D0B7D04901059747CB9F93F7769160D704395BA8E218833F3040A301DD337A0C8DE3D4C3E070DDDE1F82B65B56B5E447C2238670E49EBE9F478A27114608",
-  "notas": "ACTUALIZACION AUTOMATICA EN ANDROID"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.6-7/CafeteriaEF_1.0.6-7_arm32.apk",
+  "sha256": "d0d04943039c9ac674d8388222d694b3f4898652ccf1a49b4320964c1565f9dd",
+  "firma": "71D1EBD216EA8B5AE2B37BC4385B4258F5A0A754B266B396142B896237DD2E1235FDBA46EEBACBF75A18A2B7175CA75F5350F22E524675397F705DCF32E5980C",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
