@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.4-5/CafeteriaEF_1.0.4-5.zip",
-  "sha256": "411c286974a6c9e5d8012b2266c1a0dc7faccaeeb636958ce4c3186f174afde1",
-  "firma": "479B2881206D7BA80D8FFD5B53D98419040F2EFC346441629D5BD231FF443EA7CD0EFE3511FEBADBD88AC69EC457FA9BAAAFF4790CBC83CB04BD89FF58DA8A0F",
-  "notas": "Arreglo del instalador automatico y version visible en la entrada y en Config"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.5-6/CafeteriaEF_1.0.5-6.zip",
+  "sha256": "a5704757278d6e054a84f35d02737c325009fc98f577e4e26cc42fa27b276f6e",
+  "firma": "02BB9BDBB87C727CB0B59A99506A3B4C4B34674B0085D8DF9EECB4ED1E884E2D2AEA311B96B2E7A10B50FF55DB3C57457AAA6A5EC7890B2B032699604F1EF60A",
+  "notas": "ACTUALIZACION AUTOMATICA EN WINDOWS"
 }
