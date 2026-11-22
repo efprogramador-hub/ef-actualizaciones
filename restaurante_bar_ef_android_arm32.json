@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.6-7/RestauranteBarEF_1.0.6-7_arm32.apk",
-  "sha256": "3c3202724ea2edf4e838ddc6b7d7104f8c7acd507b27fb11ae2c1bdc960ca6a6",
-  "firma": "D9F024B95C22524E1A93B0C44624ADC93D6A36F7FA393AEACBA2023F97DACF67028A02131883223FC6CB2D42272AF98DE258420E6730D8916CCAB18746BD8604",
-  "notas": "VENTA LIBRE: COBRAR ALGO QUE NO ESTA EN EL MENU, CON CANDADO Y PIN"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.7-8/RestauranteBarEF_1.0.7-8_arm32.apk",
+  "sha256": "bf28a79608d969ae306b506d937eb604ae30f1c217ca9412e5fdb308bcb6c4e0",
+  "firma": "4C057E74683BD7D620824F8DFF43A3B61A29D716D1B1062F7FFB735DBFAC1044059E970D2941A15F54683F17F5A2986A91783280422D6A49FFD37A6FBF6B1E09",
+  "notas": "BOTON BUSCAR ACTUALIZACION EN CONFIGURACION"
 }
