@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.6-7/RestauranteBarEF_1.0.6-7.zip",
-  "sha256": "11aea1581107809c1b66f96aaf49e757431c19fe5b73096af3efe9ed04ba1b00",
-  "firma": "D9B9AF43A090074EA1CAC9C8175D12F1A4D6C45BA836EDC3AD09E3BE6E0767A3ADDC866C552ACB74BE9BCCE4AF066426B7383643D7E6100769A727188CA49D0F",
-  "notas": "VENTA LIBRE: COBRAR ALGO QUE NO ESTA EN EL MENU, CON CANDADO Y PIN"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.7-8/RestauranteBarEF_1.0.7-8.zip",
+  "sha256": "fda4f1094f8e32b44d172c5ff8205504bf92c2fe396c8b9d1774031337b7b375",
+  "firma": "9DE4CB88FDA3AE8892F7C540495385DE8ED6E0B9669F9DAAEABB9C06DAA04447ABF96490D087F48B459ECEB0BEE0511538C6640B18E598F8FD8F0D85E08E8208",
+  "notas": "BOTON BUSCAR ACTUALIZACION EN CONFIGURACION"
 }
