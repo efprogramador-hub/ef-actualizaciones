@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.2-3/RestauranteBarEF_1.0.2-3_arm64.apk",
-  "sha256": "f6114dbbbd023c6c80099e9bd1897749316f9670321e759426a2f0ecffedad5b",
-  "firma": "54C5EAEE3C3A0779AA794D13B763B69522B2A5548E35FDD4E74DEDF3CAF059C43C6E14CCBBB54C9C3E9844FD90DA75A547416AE96219167DD3F4C008BF398607",
-  "notas": "ACTUALIZACION AUTOMATICA EN ANDROID"
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.3-4/RestauranteBarEF_1.0.3-4_arm64.apk",
+  "sha256": "e67b8b5765b8281bd7acef3ba725e11aa43334fae4ed4b0b87426ec5c3253f80",
+  "firma": "6465AA472A6C96035CCDCFE07BA82AF9063F0D390381FD92F1E7480915086B9715DA6AA17857612AE89D662C301290EFA857D5296AEB90F591EE8F907E278F07",
+  "notas": "MUESTRA SOLO LA VERSION CORTA"
 }
