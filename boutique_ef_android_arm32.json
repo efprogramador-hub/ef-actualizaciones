@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.5-6/BoutiqueEF_1.0.5-6_arm32.apk",
-  "sha256": "2f9c4a72259f6f4c5ee5286d4dee0936fd3f7951f52756009197da6c8e2dab7b",
-  "firma": "2AF15616406A9DA1A965D59AAA55A6F99EF4FDA2358F4D2E40A99103225A1F9BD7959018412DE7E0900C3A889E3EEDE815DB260D7B6A864BB9744C6F85DEA403",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.6-7/BoutiqueEF_1.0.6-7_arm32.apk",
+  "sha256": "fa348500ac84ffd02e86246a943a1d8830680657640d32a117cda2a229872240",
+  "firma": "67B5D44836EF344E2A1922E60CB0D59BA2A8F162D86A1FD28B0A4E4BF8D931791C018655F4256A53E4C9F715FFF6912F06142CA8FACBEA4854A9839A333A2909",
+  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
 }
