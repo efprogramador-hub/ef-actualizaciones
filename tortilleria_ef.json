@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.4-5/TortilleriaEF_1.0.4-5.zip",
-  "sha256": "c51f4904ea4a9440bfb4f67c595667f5a2e8ef0e94662dfc945209e74f49ecf1",
-  "firma": "949AF71BF418CA84F3E42858F5E37D735471E3B800B826D379D6BBEDEAAE436426FA74A271AD7B7A0813A563289CECC5642A7816F5F3F32E65A811145A3B5707",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.5-6/TortilleriaEF_1.0.5-6.zip",
+  "sha256": "4413202f6e9a1e026dd1c9ba6a79ce2439b0993459c2d7f49d0b9521b7795368",
+  "firma": "BB6959D1D1DFEAFF8DBD8C57C4BDD6D6050BF95955300D503A1E3E5E81315FDDF28CB13AE7A655635CA67A14719B8B23FD66E5136C8BBAC34C10EBFECF187106",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
