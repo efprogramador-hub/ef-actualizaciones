@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.7-8/RestauranteBarEF_1.0.7-8.zip",
-  "sha256": "fda4f1094f8e32b44d172c5ff8205504bf92c2fe396c8b9d1774031337b7b375",
-  "firma": "9DE4CB88FDA3AE8892F7C540495385DE8ED6E0B9669F9DAAEABB9C06DAA04447ABF96490D087F48B459ECEB0BEE0511538C6640B18E598F8FD8F0D85E08E8208",
-  "notas": "BOTON BUSCAR ACTUALIZACION EN CONFIGURACION"
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.8-9/RestauranteBarEF_1.0.8-9.zip",
+  "sha256": "b7fafe3bdb6694372dad9385664b7cbc86f1d2b8896a237c634a9196f396d2d4",
+  "firma": "64BB7D672DF9903DA807DCBCA5F40D312DB6A6FD64FAFB4D79D9299A201F27FE17A2FBE0D6B4A23CD73EE6BFF51467368F03878DCBAD9F2F68999E6815D7D404",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
