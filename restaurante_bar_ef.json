@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.8-9/RestauranteBarEF_1.0.8-9.zip",
-  "sha256": "b7fafe3bdb6694372dad9385664b7cbc86f1d2b8896a237c634a9196f396d2d4",
-  "firma": "64BB7D672DF9903DA807DCBCA5F40D312DB6A6FD64FAFB4D79D9299A201F27FE17A2FBE0D6B4A23CD73EE6BFF51467368F03878DCBAD9F2F68999E6815D7D404",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.9-10/RestauranteBarEF_1.0.9-10.zip",
+  "sha256": "250671c4c14f8d15036636db742c5a3f259e802f7ca95012516f0b1b0aadfe69",
+  "firma": "1F1F156570D84B72921DB3C83C5A101A2CDC7918F15D69BCCBB01656E65B3FD3CD771EDD03598CAA19C3B17241914F94189EAE1576D12BDB6EEA875E4BB39102",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
