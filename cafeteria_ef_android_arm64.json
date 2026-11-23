@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm64",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.8-9/CafeteriaEF_1.0.8-9_arm64.apk",
-  "sha256": "1d64b377cb64e72c5b498c7254dc654f2cb8e992e716f5349842baf1b90a6ad4",
-  "firma": "094D15004AA48B7EA2B8E3B1E21B04913EC68AE25AAFE7CDDBDDD41901C954A3BEF9E847A19845AC8E22B5CEC35F90625CA61CFB4CF34E4D3A1BB721C8915E01",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.9-10/CafeteriaEF_1.0.9-10_arm64.apk",
+  "sha256": "02c29d8d695a0cec3787e77122871a11ba5b1b6dfaa73b0f8c2afd92307fc483",
+  "firma": "7F8186CA5C30F67E9FE0B99B8652AB89D82BAA248A813DCCF6B091360D7005B65DCD9A64A9CF12DECE43CC65379793BBD35B783AACCCB61B8DBA9208621EEC08",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
