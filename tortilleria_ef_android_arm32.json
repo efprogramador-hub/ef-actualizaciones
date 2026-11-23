@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.3-4/TortilleriaEF_1.0.3-4_arm32.apk",
-  "sha256": "918b696b93be9ad58e3592bd094c0fe2bff2df57d408db0211a28ba10e94355e",
-  "firma": "85CD2674811EA4A9CEBA4A480777A0487D1426E5DE54F05B8E44386C7E4C226FF093CDCE5058435D35B4DB4B2F594AC67B72121F321885A7AB19EA7F038BAF00",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.4-5/TortilleriaEF_1.0.4-5_arm32.apk",
+  "sha256": "38096c000a5bbb2f50092b6dccfd8faff1dfc4b47eb47fc92694efa57ef3164e",
+  "firma": "6A053332224C773D61B7631E29E87D6D99640422A3F7F0D1236A2932855F9AF18F5AB5F54654E7964814D1EC33CD4CB1D80B707A278A817A4CD5767D6365130F",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
