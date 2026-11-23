@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm64",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.6-7/BoutiqueEF_1.0.6-7_arm64.apk",
-  "sha256": "3e6174393dfd8383e411e1fc190b3843a30a114bcc384f7a3dfdddda1cffd3b9",
-  "firma": "EA45D4204C7960F307C176A3F424F9CE5F690EA61BE98787C48467DE4DEC3E9447AEAB814A260EBF5EAF8776DC9D5CCD77AB39C6DA8989264916024EB8ADC500",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.7-8/BoutiqueEF_1.0.7-8_arm64.apk",
+  "sha256": "0b47d5c2a9f1753f78bbdd0c224f00718a72cae05a89406861d35b130b00086b",
+  "firma": "53018F8C9C076D48A2A6D40CF3248EE3A6E92497A75755069977757BB0843BD455643785F78F409EA2584B79ED295B22F87CA43C24A186E4F29242182E182703",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
