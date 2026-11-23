@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.7-8/BoutiqueEF_1.0.7-8_arm32.apk",
-  "sha256": "93e2bc6ec7fe415ab80adc8a590eedff837f5d4da3620164733a4e393593ab56",
-  "firma": "00FD7AB33367C050F89EC9B47E40E7DA67B9E7EE3AA4578EBC1B3BCD12B38CFDAA31178D2C763A288FAEA76828A1138A1774C94382E52208858FBB73223BE908",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.8-9/BoutiqueEF_1.0.8-9_arm32.apk",
+  "sha256": "69ddc0cc05dd097a05008322132abd34352869b4b3d71325cff9041ea1a339ff",
+  "firma": "0E1AA27635AA52E50EDDF42C28CE8653FC5139D64AEAABB07E490A192CE866D4640E80B812A85B248B7DD273883511A60FA0EC6E916355129BED87B28F09B908",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
