@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.7-8/CafeteriaEF_1.0.7-8.zip",
-  "sha256": "c4bf5ff8e49264d5edef5c51e318c4f45bfbed9ad6d57e2b577f2c1705ea3e44",
-  "firma": "FFBC98658878977CE24002C5A8649E32010EF112607A84CA95BD2C7D94A0A13206E2DF51B2906C0E83CCB303198B7D7C3F53E218FCB35118074C39DCED5BB70D",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.8-9/CafeteriaEF_1.0.8-9.zip",
+  "sha256": "9ac39397b9d0ef4903cdf9b71c02f0d8e39837ae53f116c528f1cac7dd2f3c66",
+  "firma": "3F6D46EBFE030669374F0A98AF45EB6BD056756A99B0B36317D72AF280A85F407E506A42BE3FD8FC40D8D7C73EA10EAD5A01844A8150DC6369A11EF3C47E9D06",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
