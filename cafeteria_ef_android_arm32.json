@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.7-8/CafeteriaEF_1.0.7-8_arm32.apk",
-  "sha256": "ffbc2ccfa157785fa82a16bf45a05baaac0590aa3aaf2084d627cc134c2dc837",
-  "firma": "6FB7C2A004F32E97E4571C82F241B5700108893E9F3039212D14C630D88EC4C837EB5C6CC90FBCC78DCF8AD82C45AA216510C10E70ED7A3B0A25E79D485CB905",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.8-9/CafeteriaEF_1.0.8-9_arm32.apk",
+  "sha256": "07ac96543fe35934f0f1876784dafffddd9005a9eac9aec6b012e17b4a24e1a3",
+  "firma": "AA3AD57926B8595DE79725D5C9677223EB81F887B7225655DABD843B801D6F65883CF4D9B0C7E4E0692EB8D351E4110B4C60F02BF241F3BCDF50A7C207FB960E",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
