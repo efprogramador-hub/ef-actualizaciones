@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.8-9/CafeteriaEF_1.0.8-9.zip",
-  "sha256": "9ac39397b9d0ef4903cdf9b71c02f0d8e39837ae53f116c528f1cac7dd2f3c66",
-  "firma": "3F6D46EBFE030669374F0A98AF45EB6BD056756A99B0B36317D72AF280A85F407E506A42BE3FD8FC40D8D7C73EA10EAD5A01844A8150DC6369A11EF3C47E9D06",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.9-10/CafeteriaEF_1.0.9-10.zip",
+  "sha256": "3cca85028900a4830fc041725fcb26a836d20b3510713184ac2e60752faba410",
+  "firma": "E761B0CA80322755B04B5C8E21965957E7071E514E2A12EB426C631AA7A08FDE30D40B42F17DAC0902A233D776E4A7CF4C91BC120C3E318943DF31D665701107",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
