@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.8-9/RestauranteBarEF_1.0.8-9_arm64.apk",
-  "sha256": "ab8f7e2c91a385d2c36fde0c216662d7603117f02b249bedf4cbc167b8845e68",
-  "firma": "11DB3D4CB135B2F474566F8F92F4A22A9A3FBB78D09740DC3EB73B19E666FF286ED2C99B4F8B0CE5A93E1440ABD41FE27B81741C8114DC0FE615199BB2E38702",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.9-10/RestauranteBarEF_1.0.9-10_arm64.apk",
+  "sha256": "5f3a94f784bf076fb4d740a2ff1740ec3e6aa598f32c94daabb47039a2e3cb43",
+  "firma": "906125AC8B63D53E12403FBA0EA73D2983EEC8136F18F0AE2B420794196C0972AAC24FFE78BCC4C95126B8653307783295647C9893BD2E8015FC301F276EC70C",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
