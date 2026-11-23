@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.6-7/BoutiqueEF_1.0.6-7.zip",
-  "sha256": "1e467b82caf287aca7607f4132a4ceee29023ea506f8b114f52dfe7d7d3e109f",
-  "firma": "471AB627AFDC7A1B53203A263962F11913B49E95F8C0D41C1D8BA49E94542B064DC8C466B22AF9047ED8F3F5C80DCDF76BAAC737BA9B89F859E481E397ECCC0C",
-  "notas": "CASILLAS NUEVAS EN PERFILES: REEMBOLSO, VALE E INICIO DEL DIA"
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.7-8/BoutiqueEF_1.0.7-8.zip",
+  "sha256": "af22b61fea914762fd223d380aafe881708f7fd2a6f76b1706e757218bc9d32c",
+  "firma": "001924008110B43D3BA2C8F31731E12D11F124DCB9818D5A693E957B38B76640B50C2ACDF88BDA8003B0FA90F235A5B01910136492DF792AC385F6468E1F5805",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
