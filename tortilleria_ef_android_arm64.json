@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm64",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.4-5/TortilleriaEF_1.0.4-5_arm64.apk",
-  "sha256": "f728146aecde0f291b2e819b678670cacb3d4ddf9dee31183910a035e4599cf0",
-  "firma": "0E17ADA23A9E40B00F69CA6A38A3B50CC172C48D23BA8F24E54C4A1BD7646988C034CC331D799153330DB485246F564AC24A59713DB029A0965018775C61680E",
-  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.5-6/TortilleriaEF_1.0.5-6_arm64.apk",
+  "sha256": "27c6ac2d7d2e6705a9dcd977153cadae1c10982dbe6a47ba76727258d20a8056",
+  "firma": "C98AF057FFF60453C042958AE3820ACABB278879F17CA551209318AD72A3826F1EFF798B6A89E54DEBF2F47C704EBBF10443F2D69F3DB9E050BD2E864C7FF40F",
+  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
 }
