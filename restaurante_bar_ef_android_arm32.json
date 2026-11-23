@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.7-8/RestauranteBarEF_1.0.7-8_arm32.apk",
-  "sha256": "bf28a79608d969ae306b506d937eb604ae30f1c217ca9412e5fdb308bcb6c4e0",
-  "firma": "4C057E74683BD7D620824F8DFF43A3B61A29D716D1B1062F7FFB735DBFAC1044059E970D2941A15F54683F17F5A2986A91783280422D6A49FFD37A6FBF6B1E09",
-  "notas": "BOTON BUSCAR ACTUALIZACION EN CONFIGURACION"
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.8-9/RestauranteBarEF_1.0.8-9_arm32.apk",
+  "sha256": "d2f993501a56b7f8c039450594f9809f2c80930066e61bfaa0e81a49dada88e4",
+  "firma": "1011C51C1EBD3FF789E043A875CD52F9828A53A8F3F9485FCEF51B3A9F596E2D1F53E8CD56712E6A3DC68FFDFF4D82038D52650A9FB4933CBD846CE9682D2A0F",
+  "notas": "Perfiles: nueva casilla EDITAR PERFILES y editor de perfiles mas facil (boton TODO por bloque)."
 }
