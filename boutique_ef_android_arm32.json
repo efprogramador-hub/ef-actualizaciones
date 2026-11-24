@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.8-9/BoutiqueEF_1.0.8-9_arm32.apk",
-  "sha256": "69ddc0cc05dd097a05008322132abd34352869b4b3d71325cff9041ea1a339ff",
-  "firma": "0E1AA27635AA52E50EDDF42C28CE8653FC5139D64AEAABB07E490A192CE866D4640E80B812A85B248B7DD273883511A60FA0EC6E916355129BED87B28F09B908",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.9-10/BoutiqueEF_1.0.9-10_arm32.apk",
+  "sha256": "45300d9e00d8ee93b15d81d0ac9f5470623813839d5729249ca253bb244af98b",
+  "firma": "759064315FB34E4E61451A1EC8631B656C0F98D1CB25A1F1A5705F17A5211F7CA85D0CE340CCA8B427947D37452857557C4FDEDC482626F115FBA4B1822E560E",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
