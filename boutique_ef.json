@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.9-10/BoutiqueEF_1.0.9-10.zip",
-  "sha256": "8a84d58db4335b71e2f09a32e4cf289ea7fe8b897da8c963b2094584dfa36d80",
-  "firma": "1C43EBB409F3462A0A525AFBF06D302B3693731850DD1F2877E068CABAA4A2FF54F67209D3AD7EC9AF6410DCA6D3F313F7E7A66579E354650ACC7148D5E0D20B",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.10-11/BoutiqueEF_1.0.10-11.zip",
+  "sha256": "8b6603d53b91f7ae8925f98203aa4d5753b6c9870423e074d330c1ae2d8606f8",
+  "firma": "A35F4F162ED7ABB771F7FD4635FAD286510159DBE4D95BA76C476CDBEBF2F0EB6743E38B162BFD4603CD7DB128EA6B33FD40813118328CDBF1A9F8D96FAE060C",
+  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
 }
