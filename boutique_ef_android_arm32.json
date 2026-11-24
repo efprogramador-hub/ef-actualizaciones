@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.9-10/BoutiqueEF_1.0.9-10_arm32.apk",
-  "sha256": "45300d9e00d8ee93b15d81d0ac9f5470623813839d5729249ca253bb244af98b",
-  "firma": "759064315FB34E4E61451A1EC8631B656C0F98D1CB25A1F1A5705F17A5211F7CA85D0CE340CCA8B427947D37452857557C4FDEDC482626F115FBA4B1822E560E",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.10-11/BoutiqueEF_1.0.10-11_arm32.apk",
+  "sha256": "da8ab1503372ef548d7a1ce1f5541b34cbba2d647428554731c5197c7cb6de14",
+  "firma": "1CFBE4DA3407309A123F4B6977C7AF1276A19DEBA16D721609074ADAC40D91ADC36C9C68132FCC9DD9B96531D755B57FEC9B71D9B3BAD3D037A971E531286208",
+  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
 }
