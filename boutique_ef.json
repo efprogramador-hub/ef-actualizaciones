@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.8-9/BoutiqueEF_1.0.8-9.zip",
-  "sha256": "c640f90a4dfca80618109e98a8ff0d3d57b01d3bd647ecfcf9136bf84cb3efbc",
-  "firma": "3870ED0DDE28EE8B53EBD7F8B357DC3E1D8A9571BEE2918FB34066766E28C1472B93B25ECE74ABD1FE52EDF8A6D0161505FB66FC6D83110DC858445D2B05D106",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.9-10/BoutiqueEF_1.0.9-10.zip",
+  "sha256": "8a84d58db4335b71e2f09a32e4cf289ea7fe8b897da8c963b2094584dfa36d80",
+  "firma": "1C43EBB409F3462A0A525AFBF06D302B3693731850DD1F2877E068CABAA4A2FF54F67209D3AD7EC9AF6410DCA6D3F313F7E7A66579E354650ACC7148D5E0D20B",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
