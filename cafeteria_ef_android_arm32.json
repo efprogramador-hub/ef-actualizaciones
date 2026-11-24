@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.12+13",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.12-13/CafeteriaEF_1.0.12-13_arm32.apk",
-  "sha256": "1c0024418ed2edf921ea660ce4afeffb4bc3d7fadd4a2de4d83a26f3058f35db",
-  "firma": "90F29701B183C201E8A49EDB28DB549B6DFFC3832F6F24812232B5B77F38207DED19E98B4B7FEE7EA1D1442EFD5CEED277A82D321986D178C77B11D40EC79504",
-  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
+  "version": "1.0.13+14",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.13-14/CafeteriaEF_1.0.13-14_arm32.apk",
+  "sha256": "5b2c261e7cc5a45375b0ae9699c08b3a917405681a4704033b95d5fca8c5ffba",
+  "firma": "A9A101A6BD2C243BB89532077210DC597B4141C7B405DBF854BBE4F0C05D2F64F23157D93EE993BF05235CB68685A348E0A2E41CB40BD74D65FD6C1E80692505",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
