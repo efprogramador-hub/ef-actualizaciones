@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.6-7/TortilleriaEF_1.0.6-7.zip",
-  "sha256": "5f02eda7627ee3a02abd2da56fd5c7d1b53ddfd6f48109ea73a64e974b5513db",
-  "firma": "2CF920B98B65A8B1A581A592EC7781CBB64CFE2EEA6C754D295580D87EDD33A642498D2B973C802AF82FB68D4EDB3E633F6CAACD675A5E07A166CE87E0B6630A",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.7-8/TortilleriaEF_1.0.7-8.zip",
+  "sha256": "6f461c02fd62367a7e42c74e9415348ec9329ffd37968e18f46d11bf76c23857",
+  "firma": "38210A0FA84EC13FE22DC121E08E81E1C4B968B5A96F60545800A9129F9964F5A227D56E22CE182BBD66E0E3BD1AC0175387980493964CEB419F29B0147B0507",
+  "notas": "HORARIO DIARIO: nuevo selector de periodo (Hoy / Semana / Mes + Periodo con calendario y horas) en Resumen, Productos, Horas pico, Descuentos, Por empleado y Bitácora. Con varios días aparece 'Mismo horario cada día'."
 }
