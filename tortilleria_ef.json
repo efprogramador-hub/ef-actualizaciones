@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.5-6/TortilleriaEF_1.0.5-6.zip",
-  "sha256": "4413202f6e9a1e026dd1c9ba6a79ce2439b0993459c2d7f49d0b9521b7795368",
-  "firma": "BB6959D1D1DFEAFF8DBD8C57C4BDD6D6050BF95955300D503A1E3E5E81315FDDF28CB13AE7A655635CA67A14719B8B23FD66E5136C8BBAC34C10EBFECF187106",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.6-7/TortilleriaEF_1.0.6-7.zip",
+  "sha256": "5f02eda7627ee3a02abd2da56fd5c7d1b53ddfd6f48109ea73a64e974b5513db",
+  "firma": "2CF920B98B65A8B1A581A592EC7781CBB64CFE2EEA6C754D295580D87EDD33A642498D2B973C802AF82FB68D4EDB3E633F6CAACD675A5E07A166CE87E0B6630A",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
