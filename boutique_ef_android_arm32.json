@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.10-11/BoutiqueEF_1.0.10-11_arm32.apk",
-  "sha256": "da8ab1503372ef548d7a1ce1f5541b34cbba2d647428554731c5197c7cb6de14",
-  "firma": "1CFBE4DA3407309A123F4B6977C7AF1276A19DEBA16D721609074ADAC40D91ADC36C9C68132FCC9DD9B96531D755B57FEC9B71D9B3BAD3D037A971E531286208",
-  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.11-12/BoutiqueEF_1.0.11-12_arm32.apk",
+  "sha256": "ddb29322e6eeceb12911e1e60bdd4547c8a2302b5784f1f66800e57a5f87486d",
+  "firma": "E21893FB719BA2611D4B942CA6AD8C263BCA66DF2C4414C540DCEBC4D01E020E0C81B996726BB702B210AC8DCCC66313B6ADAF289647143514A8AF91DAFCFB02",
+  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
 }
