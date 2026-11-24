@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.9-10/RestauranteBarEF_1.0.9-10.zip",
-  "sha256": "250671c4c14f8d15036636db742c5a3f259e802f7ca95012516f0b1b0aadfe69",
-  "firma": "1F1F156570D84B72921DB3C83C5A101A2CDC7918F15D69BCCBB01656E65B3FD3CD771EDD03598CAA19C3B17241914F94189EAE1576D12BDB6EEA875E4BB39102",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.10-11/RestauranteBarEF_1.0.10-11.zip",
+  "sha256": "2942cf45527eb28f04503ec0b1bd2464c099e8a3607a367f40a77762d4d7fbe0",
+  "firma": "881CC374F1A7B52DC94EA8FB259D336A7D407290F60706FBE65F70960BCA5F3A32E8796C6CF6122DE7F16834E3DB6984BA49B6E9FD8F2F5A27359A0AA8A91A05",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
