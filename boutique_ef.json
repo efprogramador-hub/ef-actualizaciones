@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.11+12",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.11-12/BoutiqueEF_1.0.11-12.zip",
-  "sha256": "692c879bd2512adbf65e47c7daf6f32d2c0673eb2eade4646b5c0ea43d585b6c",
-  "firma": "2E75CB9CA96AFAC3751FD98767013F6588EA080845B3E0F4229C23DF218DD00769463F79F611B16022C715E89FDCE9305BB6A3C25E6126D54B6F175C4EA81E0D",
-  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
+  "version": "1.0.12+13",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.12-13/BoutiqueEF_1.0.12-13.zip",
+  "sha256": "066976026bb20f6ccc72edfd85d7936aa9866c53ac9174b273c2beca8c489f5b",
+  "firma": "CEAF74F14412FB25A65E44072728902A277D6423E37BA0D3A5ECC3B5CCFC3B72DA578252BCED0187C7DA9CDCC86CC3F3AA14CA84A97E8D06CC5AE38498506A07",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
