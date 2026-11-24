@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.10-11/RestauranteBarEF_1.0.10-11_arm32.apk",
-  "sha256": "972ea7bc636373856decb3c30a539697ef81e2bc2597dd7e4883104f1cf7f58d",
-  "firma": "A927B47BA80AA34033F31888CE3770202A4A20F8C08F36F5D2E7E42A6F857521622C236A4A5FAA0B25DDB6F258BDA128ABA27002F7C68F4C80AB1E456317180F",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.11-12/RestauranteBarEF_1.0.11-12_arm32.apk",
+  "sha256": "fc5daae270420240f01ca998a708ac878cbd9e0c8d6691dbe45e6d128c374294",
+  "firma": "436B25B94D12B4C26462A9E2B92FAA98165BE90777C17A7105DFBB8719D53D7181FEAF868FEBE943DCFEF1C9CA25E1018EC41EB41DFF8F25FDF5CCF250A5B30B",
+  "notas": "HORARIO DIARIO: con varios días elegidos en cualquier calendario (menos Turnos y Corte Z) aparece 'Mismo horario cada día' para ver solo lo vendido dentro de ese horario. Ventas libres y OTROS también lo respetan."
 }
