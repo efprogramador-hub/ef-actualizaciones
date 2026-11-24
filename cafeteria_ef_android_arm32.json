@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.11+12",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.11-12/CafeteriaEF_1.0.11-12_arm32.apk",
-  "sha256": "0b56da46e22d777e249e8052bdcb49d5c9615406dfd330d0e867f1fe7fe7dede",
-  "firma": "FECEA893107EA10A85B617E997320ADA7286115CEF152B1DAB4A7973EF32600C4D8594F29EFE31377B6095B229952419B27415B2E6CB16F73D3D0266871BEE0B",
-  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
+  "version": "1.0.12+13",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.12-13/CafeteriaEF_1.0.12-13_arm32.apk",
+  "sha256": "1c0024418ed2edf921ea660ce4afeffb4bc3d7fadd4a2de4d83a26f3058f35db",
+  "firma": "90F29701B183C201E8A49EDB28DB549B6DFFC3832F6F24812232B5B77F38207DED19E98B4B7FEE7EA1D1442EFD5CEED277A82D321986D178C77B11D40EC79504",
+  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
 }
