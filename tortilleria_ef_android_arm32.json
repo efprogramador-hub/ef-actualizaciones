@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.6-7/TortilleriaEF_1.0.6-7_arm32.apk",
-  "sha256": "d2cba730e39e78acdd1e7b31b053012febcb46c1a01b1b27ab98e8f324b010da",
-  "firma": "D8DF7A018F94D2E1E1B9EC2FB1E72CE9283996E0510A0C07561A22AE82151C257F20218400EB260AE52CE7A643BE0A82833072ED3DE27C4F20A592381CF9160F",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.7-8/TortilleriaEF_1.0.7-8_arm32.apk",
+  "sha256": "d18807ad2fbcf3cb2058b22a4b7b1ff35ba2ad8b7b1cdc158daacf7c5d1569a1",
+  "firma": "2A35821609B7064C865FBA6F0D4C6E2A142F41FDDD715EEC104DD5F8AE05433E8916DDC1A4371D0FA6C9E5094E4549B6A5C63A455B38C9E7D0A82DAA91BE6E0E",
+  "notas": "HORARIO DIARIO: nuevo selector de periodo (Hoy / Semana / Mes + Periodo con calendario y horas) en Resumen, Productos, Horas pico, Descuentos, Por empleado y Bitácora. Con varios días aparece 'Mismo horario cada día'."
 }
