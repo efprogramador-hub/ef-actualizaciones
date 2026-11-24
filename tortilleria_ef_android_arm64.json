@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm64",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.7-8/TortilleriaEF_1.0.7-8_arm64.apk",
-  "sha256": "022c4be2bb390059b452539e4bc2abd227b05d632ae2ea80a05c438110dfd0ce",
-  "firma": "5CFE476940256B13B69FB2F28692B02E32541737A36A9F11F4422554693D07086EA2AAC3A734F1416F894C1E005D6AF40BD26E437D4D03B6D883FAD675AE2E0D",
-  "notas": "HORARIO DIARIO: nuevo selector de periodo (Hoy / Semana / Mes + Periodo con calendario y horas) en Resumen, Productos, Horas pico, Descuentos, Por empleado y Bitácora. Con varios días aparece 'Mismo horario cada día'."
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.8-9/TortilleriaEF_1.0.8-9_arm64.apk",
+  "sha256": "5742b6b74ea88e92db7c1d2e7fc09df5c1d0cd340b87978f0a7254b7a9f00ebc",
+  "firma": "C5A6EAD2E38972A981AEFB74703CE50EBB04A6A8C5DE8888E6F8A7A8F1AAD52FDE9384BA42621FB9B6DD3A338D9F186CF057CA06D582FF2CE189236C28DDF80D",
+  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
 }
