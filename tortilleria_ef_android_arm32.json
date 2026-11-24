@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.8+9",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.8-9/TortilleriaEF_1.0.8-9_arm32.apk",
-  "sha256": "319b2ea600c64aa2971c522e3b273d092b75dc8008558177484d9b05125af26a",
-  "firma": "A90CAAA19F2409671676E18DE6BBA3FBEFB10813A26B4CB98BAB96AEFFFA1370370516EAE24112D7569059113FEF3900B3FFC6DE414937D98DDD2D2909C1A503",
-  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
+  "version": "1.0.9+10",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.9-10/TortilleriaEF_1.0.9-10_arm32.apk",
+  "sha256": "c9eb392f76f6c22c24c07f76f073ff17080ca344e17631c69564ad4daf3f8100",
+  "firma": "9846BDC56FAC18934C2F1982A93C057BDF98D8B3215C0E6E5895FD8EC91426450CF4105045EEA151FD2432F12B016FBA59E9814FF7F075361ACB2C442B1DFD0B",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
