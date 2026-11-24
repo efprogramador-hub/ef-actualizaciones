@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.10-11/CafeteriaEF_1.0.10-11.zip",
-  "sha256": "5b2da40d0d21b62ca27a577c6949427ad2e8c6d270dd56563d6932c9c2a7fd70",
-  "firma": "EF0BA83EA294CE55F3DAE77E6B5CA588B71D2EEEC33F6D6EC8097F9CA6C8D4D97D55E2A157D960B8058E77CF127763C664ED3B461CCE72AF4D32EB37CAA6D50C",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.11-12/CafeteriaEF_1.0.11-12.zip",
+  "sha256": "d0e093c13da81b1ada51edea6d7e48f793237f7795665dec294788e8a6689456",
+  "firma": "B7CEA4CC6BC4DA298AEF52497FEF88CE3A5312085B43389A025B96271D01572A0522E8BACF21CE95DFEF5898429A0B2959C8C5FCD23A3E3071AFBB5327363E06",
+  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
 }
