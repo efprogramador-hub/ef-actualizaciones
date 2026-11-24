@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.9-10/CafeteriaEF_1.0.9-10_arm32.apk",
-  "sha256": "d72b2a09d88eade4079d9dd0698d3b6c5fe337cf8b8e5acabce9232632077486",
-  "firma": "BA3C6B42AFD458C89169D46DAA53EC36FB345031ED8444849C51DC6ECCB806BB4B4B236D66252AD50909147D6842D0DA76181C6EAEA6A386E927843A29973607",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.10-11/CafeteriaEF_1.0.10-11_arm32.apk",
+  "sha256": "b8d3bc6dbd0f674ac68fccdab152f5c4ce401d9c5b658716c8fd9d61a23e390a",
+  "firma": "F1C99D2A787E61C3E76DBEA8133EA8A0A7A75D261992F6B6C96CDDA7262A898EB6D4504FDBF49F312DBE2C4E5CA8F3EC5F14CE602F659DDBBC080C7E44F7B108",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
