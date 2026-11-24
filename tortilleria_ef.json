@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.7-8/TortilleriaEF_1.0.7-8.zip",
-  "sha256": "6f461c02fd62367a7e42c74e9415348ec9329ffd37968e18f46d11bf76c23857",
-  "firma": "38210A0FA84EC13FE22DC121E08E81E1C4B968B5A96F60545800A9129F9964F5A227D56E22CE182BBD66E0E3BD1AC0175387980493964CEB419F29B0147B0507",
-  "notas": "HORARIO DIARIO: nuevo selector de periodo (Hoy / Semana / Mes + Periodo con calendario y horas) en Resumen, Productos, Horas pico, Descuentos, Por empleado y Bitácora. Con varios días aparece 'Mismo horario cada día'."
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.8-9/TortilleriaEF_1.0.8-9.zip",
+  "sha256": "2f024e8666c8ec3e137cbc716edd712c3b6cd4b1b26361741e2f5b22f8d2fd26",
+  "firma": "66E8F963DA2E6FA7EF6CBAE27836CA17ED3E87B3D310DBAF0BDE527B6CE375637E7A177C9169ADDB8BA421C1B2DABB24A9F8C7F294ACBB9ADD09B9D6CED50606",
+  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
 }
