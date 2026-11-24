@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm64",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.5-6/TortilleriaEF_1.0.5-6_arm64.apk",
-  "sha256": "27c6ac2d7d2e6705a9dcd977153cadae1c10982dbe6a47ba76727258d20a8056",
-  "firma": "C98AF057FFF60453C042958AE3820ACABB278879F17CA551209318AD72A3826F1EFF798B6A89E54DEBF2F47C704EBBF10443F2D69F3DB9E050BD2E864C7FF40F",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.6-7/TortilleriaEF_1.0.6-7_arm64.apk",
+  "sha256": "dd2fbdc2ca1023e6f6b6b9bdffdf875ca62660ba2efdc0711118e71ca6ba0caf",
+  "firma": "6329B5CD11606FD2C15042EFE4FCD0A94E49F2445E026532DE595BB18D9EB5A7FE300D61EF1E62F8A8D0958E3320AFFD70E013EF8B2EF07A7AC5F6FE71C03C07",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
