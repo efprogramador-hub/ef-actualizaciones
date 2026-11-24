@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.12+13",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.12-13/CafeteriaEF_1.0.12-13.zip",
-  "sha256": "54eeef552cdcef5fda8ce35ab7b476591b531a06bf70b5d0cb573115d110932f",
-  "firma": "2FEACAB5DA9106ED8982411AB0C5B6A258C9E5D6BBA74EDA8719C4DBD13DCC9F508EC7FBA8E2679A57C8F947BB7A258F6F5D1D86A78BE9D7DC11773F1BB4DF05",
-  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
+  "version": "1.0.13+14",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.13-14/CafeteriaEF_1.0.13-14.zip",
+  "sha256": "6c0101ad80c070ff0904975236433aa8885ae3efec6ee1555f31ad27907c3ec9",
+  "firma": "065B8BE3A9BBF018A1DD5ABE01265FC2B3DC10DDB60FCBFA185C4831D4AC2186E1D8354C8D3CAF400F6102D92EB026782FC034672AA47796CECC0C026D513F0A",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
