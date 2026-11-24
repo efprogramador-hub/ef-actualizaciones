@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm64",
-  "version": "1.0.11+12",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.11-12/BoutiqueEF_1.0.11-12_arm64.apk",
-  "sha256": "a7c29095e2081bfe395174332218d7f95a4c6fbbb8216e49e03cccc53cff6961",
-  "firma": "1CA629777E4B0D4064BA604CD2EB27C36E3C1D1DF29ABC19327107C21A81FABE05ACA3C0E993AD24EA8B2ECD829145CCF5BF31E8FF44BAA3C9E4D1FA9D479602",
-  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
+  "version": "1.0.12+13",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.12-13/BoutiqueEF_1.0.12-13_arm64.apk",
+  "sha256": "21222d5b111b3e69ebfb96d69555ecb9525d52a20fba9ea3aa4d389760509473",
+  "firma": "865C42052185DB648BF366D8AFAFF33288F904C392E22AD3D0C389328D339D242CFE01EDF686A2DC64F18981D5AB5ED9E58BAA87311C7521D823F1D11975D309",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
