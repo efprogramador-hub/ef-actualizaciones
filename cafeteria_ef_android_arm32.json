@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.10-11/CafeteriaEF_1.0.10-11_arm32.apk",
-  "sha256": "b8d3bc6dbd0f674ac68fccdab152f5c4ce401d9c5b658716c8fd9d61a23e390a",
-  "firma": "F1C99D2A787E61C3E76DBEA8133EA8A0A7A75D261992F6B6C96CDDA7262A898EB6D4504FDBF49F312DBE2C4E5CA8F3EC5F14CE602F659DDBBC080C7E44F7B108",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.11-12/CafeteriaEF_1.0.11-12_arm32.apk",
+  "sha256": "0b56da46e22d777e249e8052bdcb49d5c9615406dfd330d0e867f1fe7fe7dede",
+  "firma": "FECEA893107EA10A85B617E997320ADA7286115CEF152B1DAB4A7973EF32600C4D8594F29EFE31377B6095B229952419B27415B2E6CB16F73D3D0266871BEE0B",
+  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
 }
