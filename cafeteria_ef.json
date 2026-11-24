@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.9-10/CafeteriaEF_1.0.9-10.zip",
-  "sha256": "3cca85028900a4830fc041725fcb26a836d20b3510713184ac2e60752faba410",
-  "firma": "E761B0CA80322755B04B5C8E21965957E7071E514E2A12EB426C631AA7A08FDE30D40B42F17DAC0902A233D776E4A7CF4C91BC120C3E318943DF31D665701107",
-  "notas": "Usuario ADMINISTRADOR, PIN de administradores, Editar perfiles sin limites extra y casillas para configurar."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.10-11/CafeteriaEF_1.0.10-11.zip",
+  "sha256": "5b2da40d0d21b62ca27a577c6949427ad2e8c6d270dd56563d6932c9c2a7fd70",
+  "firma": "EF0BA83EA294CE55F3DAE77E6B5CA588B71D2EEEC33F6D6EC8097F9CA6C8D4D97D55E2A157D960B8058E77CF127763C664ED3B461CCE72AF4D32EB37CAA6D50C",
+  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
 }
