@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.10-11/RestauranteBarEF_1.0.10-11.zip",
-  "sha256": "2942cf45527eb28f04503ec0b1bd2464c099e8a3607a367f40a77762d4d7fbe0",
-  "firma": "881CC374F1A7B52DC94EA8FB259D336A7D407290F60706FBE65F70960BCA5F3A32E8796C6CF6122DE7F16834E3DB6984BA49B6E9FD8F2F5A27359A0AA8A91A05",
-  "notas": "Pago mixto largo ya no se sale del margen, columnas de Ventas libres separadas y OTROS al imprimir o sacar el Excel de productos."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.11-12/RestauranteBarEF_1.0.11-12.zip",
+  "sha256": "d20bb4696fa7d0a580c8b1afafdb53097eef3feed4445fb12a551e01e29bfdf8",
+  "firma": "00289056B24E373C5C70B3981AFE9C5C025CF4FA5DE3A8DD98148002B928A38A1E4B9BC5A30769AEF3B85820C501CC68AC48B530B94EFB09690AFD7DE791970F",
+  "notas": "HORARIO DIARIO: con varios días elegidos en cualquier calendario (menos Turnos y Corte Z) aparece 'Mismo horario cada día' para ver solo lo vendido dentro de ese horario. Ventas libres y OTROS también lo respetan."
 }
