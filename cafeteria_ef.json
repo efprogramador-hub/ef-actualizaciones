@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.11+12",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.11-12/CafeteriaEF_1.0.11-12.zip",
-  "sha256": "d0e093c13da81b1ada51edea6d7e48f793237f7795665dec294788e8a6689456",
-  "firma": "B7CEA4CC6BC4DA298AEF52497FEF88CE3A5312085B43389A025B96271D01572A0522E8BACF21CE95DFEF5898429A0B2959C8C5FCD23A3E3071AFBB5327363E06",
-  "notas": "Horario diario en el selector de periodo: con varios dias, el mismo horario cada dia (Turnos y Corte Z no lo llevan)."
+  "version": "1.0.12+13",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.12-13/CafeteriaEF_1.0.12-13.zip",
+  "sha256": "54eeef552cdcef5fda8ce35ab7b476591b531a06bf70b5d0cb573115d110932f",
+  "firma": "2FEACAB5DA9106ED8982411AB0C5B6A258C9E5D6BBA74EDA8719C4DBD13DCC9F508EC7FBA8E2679A57C8F947BB7A258F6F5D1D86A78BE9D7DC11773F1BB4DF05",
+  "notas": "BUSCAR ACTUALIZACIÓN: en Configuración → Acerca del programa hay un botón para buscar una versión nueva al momento y ACTUALIZAR AHORA, igual que en el bar."
 }
