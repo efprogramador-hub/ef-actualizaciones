@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.11+12",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.11-12/RestauranteBarEF_1.0.11-12.zip",
-  "sha256": "d20bb4696fa7d0a580c8b1afafdb53097eef3feed4445fb12a551e01e29bfdf8",
-  "firma": "00289056B24E373C5C70B3981AFE9C5C025CF4FA5DE3A8DD98148002B928A38A1E4B9BC5A30769AEF3B85820C501CC68AC48B530B94EFB09690AFD7DE791970F",
-  "notas": "HORARIO DIARIO: con varios días elegidos en cualquier calendario (menos Turnos y Corte Z) aparece 'Mismo horario cada día' para ver solo lo vendido dentro de ese horario. Ventas libres y OTROS también lo respetan."
+  "version": "1.0.12+13",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.12-13/RestauranteBarEF_1.0.12-13.zip",
+  "sha256": "a5eab6d2060829d9a95e705da134013a6cccbf600d785cb76627283df0b85298",
+  "firma": "EE014EE672F9CC2C09AF69DEFBA70D04B920D165787EA8BF8B5B4AB76646A6E5520505D514CCB9B3AC6B13E2986AEC4CF9586304506637674B17DF386DD3490E",
+  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
 }
