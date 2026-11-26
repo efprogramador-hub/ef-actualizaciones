@@ -1,8 +1,8 @@
 {
   "programa": "ofix_masa_android_arm64",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-android-v1.0.3-4/OFIX_MASA_1.0.3-4_arm64.apk",
-  "sha256": "b98727ff62b2724272a70c4cf2037f3435bf170f5cb9bbbf08311b4321231614",
-  "firma": "2FCE7473C6F6711861C264AD2DDA3CF675C801B54B269087C3E8E6D57B2CB4C5D87CD2B98FB276E44A7FEFBD72CE115495F82C83DD95F075B8363414617AC904",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-android-v1.0.4-5/OFIX_MASA_1.0.4-5_arm64.apk",
+  "sha256": "3025a06286367c67a27e7bc9461b4aee57bde051b605b41ba9e4f6520a4b9e82",
+  "firma": "499EDE436B0B0D2367B55912581ABEA783601F13E100926358A0C0196396C3FDDCFBD4B3A2A11A8466C2FF9A7C6D5BAE22001C1E39501D9579FAB6CE64ABAC00",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
