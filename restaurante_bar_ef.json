@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.15+16",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.15-16/RestauranteBarEF_1.0.15-16.zip",
-  "sha256": "a0d92faa6f59f28304b5caed4d4a3e4a5dffe8ceb404fbef29f5765f436bce48",
-  "firma": "B4BF9604333416A61334D86745FDA0E0E11072D3330DE6871AEC58F4A6331C3CEA3A0EFF742F8336F33E4F853D0D7C06ED988AF33F92C5FD22FA116456950B04",
-  "notas": "Ventana del regalo con boton Cancelar (quita el producto agregado). Barra de desplazamiento solida con su franja, solo cuando hace falta."
+  "version": "1.0.16+17",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.16-17/RestauranteBarEF_1.0.16-17.zip",
+  "sha256": "7bc245433a1847cc72334882336c65eef10ea09ec66a8f8f12f2aa0109459946",
+  "firma": "49342A8FB53B7536CE84C93FB343B3B4A25FEC0A56CA0D0C48DE7306DE8B579DE24D26AA4DAAF231484D4E08B15D22D2908372BB51E86D3383D5818AB36BF30E",
+  "notas": "Interruptor USAR IMPRESORA. Reparto de propinas por areas (segundo ticket al pagar la propina). Lector de huellas: entrar con huella y checar asistencia, con reporte; la asistencia va a OFIX."
 }
