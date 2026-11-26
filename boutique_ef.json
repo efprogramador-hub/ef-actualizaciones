@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.12+13",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.12-13/BoutiqueEF_1.0.12-13.zip",
-  "sha256": "066976026bb20f6ccc72edfd85d7936aa9866c53ac9174b273c2beca8c489f5b",
-  "firma": "CEAF74F14412FB25A65E44072728902A277D6423E37BA0D3A5ECC3B5CCFC3B72DA578252BCED0187C7DA9CDCC86CC3F3AA14CA84A97E8D06CC5AE38498506A07",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.13+14",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.13-14/BoutiqueEF_1.0.13-14.zip",
+  "sha256": "ab58ae25c53afab5135dffde0d7bc3539dc3cc798bc4aa6390ae6542db243c25",
+  "firma": "522A38258F7DF03CD350C97673E25C555E508CBB19FDDB16482A199BA92F38670DE15D63E78006F7CE8DBFDCF9B8ACC302B03131D2B6DA0D5FAE1A519EB66106",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
