@@ -1,8 +1,8 @@
 {
   "programa": "mesero_cafeteria_ef_android_arm64",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-android-v1.0.1-2/MeseroEF_1.0.1-2_arm64.apk",
-  "sha256": "72bfb47194744ab34a656413500ca1c6a0d8d7766f834213b7bf4c3c790671f4",
-  "firma": "BDF65B265789861CAA0D9B5A9E516AF2AC960B6E17D11A82552C4E830797BB7C6D8FA6208D114549168B81512465AB8E1A1D406D5F08A3EF3F9AA7CC2E78F909",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-android-v1.0.2-3/MeseroEF_1.0.2-3_arm64.apk",
+  "sha256": "0bde9ba4e0288d26bc1026b5a8140f91f96c8cb40d0249c1163ed5a014d36f47",
+  "firma": "ECEB6DE57AE2B9B94C465715BFCCE376EC0A8B6A0EDD05116F6C1244D6BDA0690AC3A6D57322D66835366232E0EC50BCEA5862FBCE5EC270B87AFEE8C5FEDB03",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
