@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.17+18",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.17-18/RestauranteBarEF_1.0.17-18.zip",
-  "sha256": "cc033ab92237ef6dda0813ddb38dad815606dbecb7e05d7c3c7adddbdf2c4fa0",
-  "firma": "111739C16A7F7D023358494A86777404BE7F517B11CB1A63AB06EC6A70E0CEEDDA063BA5AF36049724F2E8330340D1EEA1CE52A4CDA17A92BC046E53C64D8105",
-  "notas": "Todas las casillas de texto en MAYUSCULAS; los correos en minusculas. Ajustes a areas de propina y empleados."
+  "version": "1.0.18+19",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.18-19/RestauranteBarEF_1.0.18-19.zip",
+  "sha256": "8a78ade9ee7a20c9e3e881c09de578914badff43e06eb57aa76f556a98beff50",
+  "firma": "D66D270CE1A766F2730390CE0119D3958C5F9DECE450A53262CFAB4FFCE01D874C6A07D1CD402AB875432BAD8D1C24B418515BF85E5EE97AD5BD78727FC7760E",
+  "notas": "Cada impresora extra (BARRA, COCINA...) se puede apagar sin borrarla: apagada no sale comanda ni marca errores. Las casillas en mayusculas y correos en minusculas."
 }
