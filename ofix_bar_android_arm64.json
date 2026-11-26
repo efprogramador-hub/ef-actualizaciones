@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar_android_arm64",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.4-5/OFIX_BAR_1.0.4-5_arm64.apk",
-  "sha256": "cd21a28cb7a244906c2f38d9ecaf297182a174b9932d41278db31d1193a17d26",
-  "firma": "2D27DF782E59A930E310386A888D66C72020E352C790070024581C9D7EB306DB333F35ED7F8A28765E4F9EA5614C89D2140F251D4F34032BD0D1E1010A097B09",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.5-6/OFIX_BAR_1.0.5-6_arm64.apk",
+  "sha256": "09c770aeb936cff79203f4a50fcb83a262289bf735f134e703f5abbc7d6e7ce8",
+  "firma": "46B25F59CB197E7A3A56D66025BF8251B7C21D5B5C8C5F953E69839D013DE07E10C1E3E617498715525124A0CD09AF6875E6FF256E06491700F39ABBF34B5D05",
+  "notas": "OFIX_BAR: pantalla Asistencia (primera checada, ultima y horas por empleado)."
 }
