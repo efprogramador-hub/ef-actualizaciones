@@ -1,8 +1,8 @@
 {
   "programa": "vendedoras_boutique_ef",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-v1.0.1-2/VendedorasEF_1.0.1-2.zip",
-  "sha256": "01421219ff66aededad95b8d1771990f19c4defb23be308fae91569a3dcccd5d",
-  "firma": "1A879DD75D810DC4DFE96260972B56775EFA2CF081DB5C47DFD36F6B4029FC7B69FFC781905BDB79D6055F05029B44B7FE0262F6768CA4D336FCD79C13481903",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-v1.0.2-3/VendedorasEF_1.0.2-3.zip",
+  "sha256": "8f33a235a90533cf6248b70243d152811086d538fec4691019a8928257fe7e6c",
+  "firma": "6C43EF59ACE1B858E32041B56C7E7D75C27C614215165E8D00B665560996229BE5EEB166C9BEC4BFBD0ABAFA46C1A91F001545E58EDAFBF7E0369E400FAE1603",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
