@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.12+13",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.12-13/RestauranteBarEF_1.0.12-13.zip",
-  "sha256": "a5eab6d2060829d9a95e705da134013a6cccbf600d785cb76627283df0b85298",
-  "firma": "EE014EE672F9CC2C09AF69DEFBA70D04B920D165787EA8BF8B5B4AB76646A6E5520505D514CCB9B3AC6B13E2986AEC4CF9586304506637674B17DF386DD3490E",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.15+16",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.15-16/RestauranteBarEF_1.0.15-16.zip",
+  "sha256": "a0d92faa6f59f28304b5caed4d4a3e4a5dffe8ceb404fbef29f5765f436bce48",
+  "firma": "B4BF9604333416A61334D86745FDA0E0E11072D3330DE6871AEC58F4A6331C3CEA3A0EFF742F8336F33E4F853D0D7C06ED988AF33F92C5FD22FA116456950B04",
+  "notas": "Ventana del regalo con boton Cancelar (quita el producto agregado). Barra de desplazamiento solida con su franja, solo cuando hace falta."
 }
