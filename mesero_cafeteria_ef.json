@@ -1,0 +1,8 @@
+{
+  "programa": "mesero_cafeteria_ef",
+  "version": "1.0.1+2",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-v1.0.1-2/MeseroEF_1.0.1-2.zip",
+  "sha256": "380d97b6b7f23b7cc0d55f0a5e4d5303c1779e38a51bdb9d65a5f0011105d081",
+  "firma": "24E422937EC1361B81334393BA491F5F7EF67594654121B77C0A03B34C7943D52940E94BC31B5D7CDA07F7F6BDB43640413B85A689D6DB1B94126206C3DCB309",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
