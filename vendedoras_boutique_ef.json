@@ -1,0 +1,8 @@
+{
+  "programa": "vendedoras_boutique_ef",
+  "version": "1.0.1+2",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-v1.0.1-2/VendedorasEF_1.0.1-2.zip",
+  "sha256": "01421219ff66aededad95b8d1771990f19c4defb23be308fae91569a3dcccd5d",
+  "firma": "1A879DD75D810DC4DFE96260972B56775EFA2CF081DB5C47DFD36F6B4029FC7B69FFC781905BDB79D6055F05029B44B7FE0262F6768CA4D336FCD79C13481903",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
