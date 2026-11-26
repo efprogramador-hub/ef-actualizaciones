@@ -1,8 +1,8 @@
 {
   "programa": "ofix_masa",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-v1.0.3-4/OFIX_MASA_1.0.3-4.zip",
-  "sha256": "e51804eeeaeaf498617e6cb63bb5fab9e935ea43dc1699d66708ddb08ef4eb0b",
-  "firma": "3A0547DA8E1CC0F0ACCF5C1AB873839C947A893C320DB84F48B2294C3FE2772A250C9FFC7F1C9B359147A7E5F14C2E2EE007B62ECD508895CDBA48E4AA31CA00",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-v1.0.4-5/OFIX_MASA_1.0.4-5.zip",
+  "sha256": "4ce85bb4ab27b285a32b6e578a24b8604473f2578e5d7666a25ba16e7179fab9",
+  "firma": "9EA64585A44A246CFF78EA2F196249252F06C5365E4CCE9F274EEFEF19532BFC2721399BC17D4D88433BCC24B99F233F25A16D43CC7E4775E68B91C21ED85B07",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
