@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.16+17",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.16-17/RestauranteBarEF_1.0.16-17_arm32.apk",
-  "sha256": "ac4973fd0012a5c7f07acd25673a2de758ccc9698602d3c7f2dffe28ba67cdb8",
-  "firma": "D9AEB0062750D0A089461E9E2B4B08DF8F6EEE9689DB025C72224CBE459354CCC22A4B302B4A498C0BE48188F753EE11DDB92AEA874B5FC22639AEB3179F0707",
-  "notas": "Interruptor USAR IMPRESORA. Reparto de propinas por areas (segundo ticket al pagar la propina). Lector de huellas: entrar con huella y checar asistencia, con reporte; la asistencia va a OFIX."
+  "version": "1.0.17+18",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.17-18/RestauranteBarEF_1.0.17-18_arm32.apk",
+  "sha256": "fb2eba654374e2b5624eacd0eed83c574a248ad69c0bf6913802db899e9b5e46",
+  "firma": "F6814FB60A571E4FB70B286696C1C3797D8F8CB172B7AA7F1C9FABE35D7BB36EAEEFF60E2DB0705A6E73E0DC32CD9D8F359B359A2523AB4B3619FFC212191A0F",
+  "notas": "Todas las casillas de texto en MAYUSCULAS; los correos en minusculas. Ajustes a areas de propina y empleados."
 }
