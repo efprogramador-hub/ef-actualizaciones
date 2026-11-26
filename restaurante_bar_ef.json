@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.16+17",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.16-17/RestauranteBarEF_1.0.16-17.zip",
-  "sha256": "7bc245433a1847cc72334882336c65eef10ea09ec66a8f8f12f2aa0109459946",
-  "firma": "49342A8FB53B7536CE84C93FB343B3B4A25FEC0A56CA0D0C48DE7306DE8B579DE24D26AA4DAAF231484D4E08B15D22D2908372BB51E86D3383D5818AB36BF30E",
-  "notas": "Interruptor USAR IMPRESORA. Reparto de propinas por areas (segundo ticket al pagar la propina). Lector de huellas: entrar con huella y checar asistencia, con reporte; la asistencia va a OFIX."
+  "version": "1.0.17+18",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.17-18/RestauranteBarEF_1.0.17-18.zip",
+  "sha256": "cc033ab92237ef6dda0813ddb38dad815606dbecb7e05d7c3c7adddbdf2c4fa0",
+  "firma": "111739C16A7F7D023358494A86777404BE7F517B11CB1A63AB06EC6A70E0CEEDDA063BA5AF36049724F2E8330340D1EEA1CE52A4CDA17A92BC046E53C64D8105",
+  "notas": "Todas las casillas de texto en MAYUSCULAS; los correos en minusculas. Ajustes a areas de propina y empleados."
 }
