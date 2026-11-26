@@ -1,8 +1,8 @@
 {
   "programa": "ruta_tortilleria_ef_android_arm64",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ruta_tortilleria_ef-android-v1.0.1-2/RutaTortilleriaEF_1.0.1-2_arm64.apk",
-  "sha256": "fe5359d9dfd8104e609582b1a3a8e05580189f982af47cde1085aa158016634f",
-  "firma": "F7704429B3E3F1E28FE19691EDEB52D2346B6AFE4CE597304353020B744028FF136B5EEE08D5A94ECAB45647E986B19331AA69B94BF2F0E29C2376D2C132480F",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ruta_tortilleria_ef-android-v1.0.2-3/RutaTortilleriaEF_1.0.2-3_arm64.apk",
+  "sha256": "56582ffe8b86633bd80eaf803019e5efb99a9680fc29f2a52c4006c39684a659",
+  "firma": "91EEF5ECA79F4CF8C92D3E2C58EBA691CF43BB034CCAF4947F1AD41F01607839939A94DC69E604F0FD6071CD4F0757C5484AB2833F92AC912996FE13A33EFC02",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
