@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.9-10/TortilleriaEF_1.0.9-10.zip",
-  "sha256": "3b8dc0431369544c2e594866dac67c77f0c8c5d829c1e49a6bfe3ddb320d0e59",
-  "firma": "81B880D2CA29E2A738A83B1B71537F6F080A917DAB5047CEED9063862204ADD867EE48B75E2812500CB721936940C57626EB1CE72ABA45315C004FF57C1D1904",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.10-11/TortilleriaEF_1.0.10-11.zip",
+  "sha256": "5e0b33668395d922c3c21066a224378b2aeaa8c06da90a4daeec7e08dd11685a",
+  "firma": "2442228845EA3B06FEF0412FD90EF3E28FAD8D71D8251F52CDF32B716C01367BD70183038B1B54B2099505CC70A6E17C52EDF20959D19583C1B861C82C134B0D",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
