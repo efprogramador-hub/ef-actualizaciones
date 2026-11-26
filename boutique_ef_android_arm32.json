@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm32",
-  "version": "1.0.12+13",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.12-13/BoutiqueEF_1.0.12-13_arm32.apk",
-  "sha256": "ac3a77b09c0f74c8a0fc6465213b3bfac8ca2b07220d6a849ea0c8ce0eded776",
-  "firma": "D91EAC3DF7876B9E6F89F7740B9C7773DF7B95D7A634F3520551B297FB9BEB645832CDDFD658C1E79AA8DFC12BD6E64C54107CC87DBF069F966B9B49408A5607",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.13+14",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.13-14/BoutiqueEF_1.0.13-14_arm32.apk",
+  "sha256": "60def1990082d7d310da20e49ac3790563bafec74ca60ed155220ce0cf5c1e6e",
+  "firma": "7B4AAB3CD3A4FD852D5511CA61E7034881B6F46893CE8149BD988EBD316EC9DBC0EB1732A691EF900522C77EF60A2BFDE0A99E289251654959DE82CED021AB07",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
