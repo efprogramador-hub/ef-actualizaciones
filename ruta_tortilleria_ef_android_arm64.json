@@ -1,0 +1,8 @@
+{
+  "programa": "ruta_tortilleria_ef_android_arm64",
+  "version": "1.0.1+2",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ruta_tortilleria_ef-android-v1.0.1-2/RutaTortilleriaEF_1.0.1-2_arm64.apk",
+  "sha256": "fe5359d9dfd8104e609582b1a3a8e05580189f982af47cde1085aa158016634f",
+  "firma": "F7704429B3E3F1E28FE19691EDEB52D2346B6AFE4CE597304353020B744028FF136B5EEE08D5A94ECAB45647E986B19331AA69B94BF2F0E29C2376D2C132480F",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
