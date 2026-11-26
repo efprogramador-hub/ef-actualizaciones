@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa_android_arm32",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.4-5/OFIX_ROPA_1.0.4-5_arm32.apk",
-  "sha256": "929a3a1a49978509826a0f1c0d32c7befd81b9c91fe02f56b5f556d5e5c2be70",
-  "firma": "740585C8E962FF802351E79B7EED3BFE47ACA25DB7323332C58BFE115AB3AA494D8E6E86F78B50B36A119C64D28818C8A90D330CE88136729F1AB42B32B7FD07",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.5-6/OFIX_ROPA_1.0.5-6_arm32.apk",
+  "sha256": "9f22a8078c56a91069959b46e9a9dc222fa9f6a6eb70929f8ca3f4df6d714857",
+  "firma": "5A4DD8E1AD074E7C240D033127CE8F2740E1CE255D8B705B92E2AACAF5606EAF08B2530F23600275745834CB58215F8264FBF6F4BA73E01C3EA9697369A1220E",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
