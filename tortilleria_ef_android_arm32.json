@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.9+10",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.9-10/TortilleriaEF_1.0.9-10_arm32.apk",
-  "sha256": "c9eb392f76f6c22c24c07f76f073ff17080ca344e17631c69564ad4daf3f8100",
-  "firma": "9846BDC56FAC18934C2F1982A93C057BDF98D8B3215C0E6E5895FD8EC91426450CF4105045EEA151FD2432F12B016FBA59E9814FF7F075361ACB2C442B1DFD0B",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.10+11",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.10-11/TortilleriaEF_1.0.10-11_arm32.apk",
+  "sha256": "d9141cebd2863dd951cc77e46e220850baaf20b53e4c2c88365a521c6fd96fcc",
+  "firma": "FB5CC1DC77ACDBA2446AB566403B947A1AD0DC0AB0D33528A6BD4AD16E0356D2EEEE2348BF7D9B61161C6D13F136F174BD889D2E67213BD4062202F3DDFF130B",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
