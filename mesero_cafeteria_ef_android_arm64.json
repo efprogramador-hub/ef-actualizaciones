@@ -1,0 +1,8 @@
+{
+  "programa": "mesero_cafeteria_ef_android_arm64",
+  "version": "1.0.1+2",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-android-v1.0.1-2/MeseroEF_1.0.1-2_arm64.apk",
+  "sha256": "72bfb47194744ab34a656413500ca1c6a0d8d7766f834213b7bf4c3c790671f4",
+  "firma": "BDF65B265789861CAA0D9B5A9E516AF2AC960B6E17D11A82552C4E830797BB7C6D8FA6208D114549168B81512465AB8E1A1D406D5F08A3EF3F9AA7CC2E78F909",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
