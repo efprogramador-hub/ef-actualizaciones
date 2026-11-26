@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.13+14",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.13-14/CafeteriaEF_1.0.13-14.zip",
-  "sha256": "6c0101ad80c070ff0904975236433aa8885ae3efec6ee1555f31ad27907c3ec9",
-  "firma": "065B8BE3A9BBF018A1DD5ABE01265FC2B3DC10DDB60FCBFA185C4831D4AC2186E1D8354C8D3CAF400F6102D92EB026782FC034672AA47796CECC0C026D513F0A",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.14+15",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.14-15/CafeteriaEF_1.0.14-15.zip",
+  "sha256": "4e706ad2bf85cc136aedbe42b87b3ec867ed1850f830e65e93dc196c00b67ee7",
+  "firma": "0C268FDDAF74A1A5C944454D9CBE5982F1FEA619489216FC47976EE47BAC0D0AAC67870543067E84CEB206CCAF09C3C72FBFBB741F45C4E38971958EB8BF2205",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
