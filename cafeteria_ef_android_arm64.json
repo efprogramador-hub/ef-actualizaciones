@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm64",
-  "version": "1.0.13+14",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.13-14/CafeteriaEF_1.0.13-14_arm64.apk",
-  "sha256": "5ab471509847da3b29509aae904c1e2436e69a3687378b7ede2e698f7ad37230",
-  "firma": "5B844ABF2A85A0CBA2FB973BD73BF9993764B5666BE43E204AD0B771F1470D6BBE28E1360A561F13090CE8E7C0E4751A48065AEDBF61E06CEA783EFEA6039D0C",
-  "notas": "TARJETAS DE PRODUCTO MÁS CHICAS: en Ventas la tarjeta baja de tamaño (170 x 170). La imagen o el emoji llena la tarjeta y el nombre va en una franja sólida abajo; en la tortillería la franja también lleva el precio y el sobrante."
+  "version": "1.0.14+15",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.14-15/CafeteriaEF_1.0.14-15_arm64.apk",
+  "sha256": "73f3312f308daf2dffbe4a1dad12b3f2c420f3bac2296927190ace2d92b19cee",
+  "firma": "A371E5D654F9ED12A4884476B9756C587D95FE7A7B76EB1085FA8F6D845DD579614DB20F429830C470EA8CF5E9F2CB93D78BCC718A397477AB65D123E609C102",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
