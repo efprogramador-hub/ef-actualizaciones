@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar_android_arm64",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.5-6/OFIX_BAR_1.0.5-6_arm64.apk",
-  "sha256": "09c770aeb936cff79203f4a50fcb83a262289bf735f134e703f5abbc7d6e7ce8",
-  "firma": "46B25F59CB197E7A3A56D66025BF8251B7C21D5B5C8C5F953E69839D013DE07E10C1E3E617498715525124A0CD09AF6875E6FF256E06491700F39ABBF34B5D05",
-  "notas": "OFIX_BAR: pantalla Asistencia (primera checada, ultima y horas por empleado)."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.6-7/OFIX_BAR_1.0.6-7_arm64.apk",
+  "sha256": "a36d8640da8296314b3fd55ad263a7cf30c550cdfd3b042fa706ceecac38c06a",
+  "firma": "FBAD9ECD8376B443485948ED6C95E9B4AF93BFB3E8CDA66C72B0E6B8C9C254F0A8C8977291E8A592EC46B8A5063DBE8E3422F4E3000837EEA2C79D2ABDC24708",
+  "notas": "OFIX_BAR: el correo se escribe en minusculas."
 }
