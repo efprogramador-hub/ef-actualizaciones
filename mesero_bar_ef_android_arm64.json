@@ -1,0 +1,8 @@
+{
+  "programa": "mesero_bar_ef_android_arm64",
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-android-v1.0.6-7/MeseroBarEF_1.0.6-7_arm64.apk",
+  "sha256": "e7acfaeaa204598f507a39bb501068b260edcbc1c578d658aad675578560ad90",
+  "firma": "A42829B0EAAC6EF2AE59D7E9C73B5859118F482DC84986DB59F8F513D9B3566638BA87A848F80CF148A5064D0C22CE5AC4A68AC0A8633DE03E5E171C5B940901",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
