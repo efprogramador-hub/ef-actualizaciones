@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.5-6/OFIX_BAR_1.0.5-6.zip",
-  "sha256": "1b3a60bd4035dc385e83d68d032d72bef6e6bcabebec1c6bbd6be2c4afa777bc",
-  "firma": "A2FBFA1A2DFB4C18DA9C8DD9625C1E39DCDAE51E1BCFDDA4FA0A2F197A89A957057D3111DA37F91A9F2BFFF45C100C0321349DF38F34C68C8EBCAD384857B503",
-  "notas": "OFIX_BAR: pantalla Asistencia (primera checada, ultima y horas por empleado)."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.6-7/OFIX_BAR_1.0.6-7.zip",
+  "sha256": "b36d9b14591c9a5790929880854f1139d2f200b6df5bf1e569a09a1518a6f272",
+  "firma": "A1F4C38BFFC37D5811728EB045F5A40457E80E40A30BCD706F0248E7E86B2CCE5A07C4C06577EA725ED542D408F970E6077C863CF5AC4F511B9C7FD1D81D0002",
+  "notas": "OFIX_BAR: el correo se escribe en minusculas."
 }
