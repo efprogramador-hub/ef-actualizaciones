@@ -1,0 +1,8 @@
+{
+  "programa": "mesero_bar_ef",
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-v1.0.6-7/MeseroBarEF_1.0.6-7.zip",
+  "sha256": "024d7df3f695bb129f598abc28bc2e34101e464117d88965ae6a794c788b1baa",
+  "firma": "901D5EE17B5382CC7F97FC59888F0283B7FB7370C9FD429971859A0B0423E4847F59B7A9EF5E52CD8A590C12F11534842EE0F330921E213D01D086B98B152E06",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
