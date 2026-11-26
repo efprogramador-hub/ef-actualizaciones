@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.15+16",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.15-16/RestauranteBarEF_1.0.15-16_arm32.apk",
-  "sha256": "1b768a332ed8f56aaf5d7d7ab2bfc66f150aacf180ab78d63cd7032db9506d82",
-  "firma": "AD33897753A5C5207BBEDA3CBFFD21648302241BC0B9C03FCB7B9270AC6FCB47798384C8BFE330CD7AC596846BF387D1C4B6CB61A4D7CF02F4424DCE0488B001",
-  "notas": "Ventana del regalo con boton Cancelar (quita el producto agregado). Barra de desplazamiento solida con su franja, solo cuando hace falta."
+  "version": "1.0.16+17",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.16-17/RestauranteBarEF_1.0.16-17_arm32.apk",
+  "sha256": "ac4973fd0012a5c7f07acd25673a2de758ccc9698602d3c7f2dffe28ba67cdb8",
+  "firma": "D9AEB0062750D0A089461E9E2B4B08DF8F6EEE9689DB025C72224CBE459354CCC22A4B302B4A498C0BE48188F753EE11DDB92AEA874B5FC22639AEB3179F0707",
+  "notas": "Interruptor USAR IMPRESORA. Reparto de propinas por areas (segundo ticket al pagar la propina). Lector de huellas: entrar con huella y checar asistencia, con reporte; la asistencia va a OFIX."
 }
