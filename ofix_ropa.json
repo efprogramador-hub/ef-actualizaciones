@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.4-5/OFIX_ROPA_1.0.4-5.zip",
-  "sha256": "c887a383d9d9af50296c07a02405a5245794a85036b7ef5a5de1f54262b662ea",
-  "firma": "98C3FFC3C407481AF0E569B0336E6F0FAB098AAA139DC28524929E31861C3A1DE371095B7AEB4ABAE47CF5CC2C8A41BA2B0861627543E3F77FF86EE2E0F35F06",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.5-6/OFIX_ROPA_1.0.5-6.zip",
+  "sha256": "60811101e24e56fdc913ff18a4e4bb702af8a50ab65cc75a1015f20c2ecdf9bf",
+  "firma": "1F3633559B045261B2A44A766631ACB642C6639235C2F577BE387557C088C11B3FEC51C7DDCD5A109FDDA38D68464828913C2E7F834BFA038553D2E024DFC20F",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
