@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.18+19",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.18-19/RestauranteBarEF_1.0.18-19.zip",
-  "sha256": "8a78ade9ee7a20c9e3e881c09de578914badff43e06eb57aa76f556a98beff50",
-  "firma": "D66D270CE1A766F2730390CE0119D3958C5F9DECE450A53262CFAB4FFCE01D874C6A07D1CD402AB875432BAD8D1C24B418515BF85E5EE97AD5BD78727FC7760E",
-  "notas": "Cada impresora extra (BARRA, COCINA...) se puede apagar sin borrarla: apagada no sale comanda ni marca errores. Las casillas en mayusculas y correos en minusculas."
+  "version": "1.0.19+20",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.19-20/RestauranteBarEF_1.0.19-20.zip",
+  "sha256": "3324348a37fbc101e7f9c8d6ee359391af56a358b4c46cc42f217815151fe9e8",
+  "firma": "25ACC05BD912934A70BE24F3700DC521BC51EC9F567E33AA4FE6B543E29219AA06FDD957C4E35F60A0F70E3E9EC48DE87C4C690C1811938176D1751990487702",
+  "notas": "Las comandas asignadas a la impresora de CAJA tambien respetan USAR IMPRESORA: apagada, no salen ni marcan error. Interruptor para apagar cada impresora extra."
 }
