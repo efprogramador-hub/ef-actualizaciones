@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.4-5/OFIX_BAR_1.0.4-5.zip",
-  "sha256": "23e61f6bb7a15489757b2b91d18990e23fb3a6685a8a4648a3c9d0c58c4b5a9a",
-  "firma": "15B935DB003C36FC08D7E9C9120EFB9903E4BC5B18A63E8B363FD9752CF48348A8C5728FC77CD142A9CC9DC35BA778E84F9C3FBF4906D94D4598DEF961D2A708",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.5-6/OFIX_BAR_1.0.5-6.zip",
+  "sha256": "1b3a60bd4035dc385e83d68d032d72bef6e6bcabebec1c6bbd6be2c4afa777bc",
+  "firma": "A2FBFA1A2DFB4C18DA9C8DD9625C1E39DCDAE51E1BCFDDA4FA0A2F197A89A957057D3111DA37F91A9F2BFFF45C100C0321349DF38F34C68C8EBCAD384857B503",
+  "notas": "OFIX_BAR: pantalla Asistencia (primera checada, ultima y horas por empleado)."
 }
