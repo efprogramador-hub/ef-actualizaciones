@@ -1,0 +1,8 @@
+{
+  "programa": "vendedoras_boutique_ef_android_arm32",
+  "version": "1.0.1+2",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-android-v1.0.1-2/VendedorasEF_1.0.1-2_arm32.apk",
+  "sha256": "5a4f01b4c12d973fc8cd450303e76257bdeeace86e8dc6e0375b816ec1151b42",
+  "firma": "8911D72478780DB3AFADA4572F300FA3DA192EC2D8552C2BDD8CFAC8C751C612FD83285AC7DE60B20E1C52568938622FDB49BF4C7DDA5F57573CB507D02ED403",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+}
