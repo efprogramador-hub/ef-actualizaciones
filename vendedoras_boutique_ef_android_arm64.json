@@ -1,8 +1,8 @@
 {
   "programa": "vendedoras_boutique_ef_android_arm64",
-  "version": "1.0.1+2",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-android-v1.0.1-2/VendedorasEF_1.0.1-2_arm64.apk",
-  "sha256": "41f9004723aef12b4cddd3c11e9baee5a02e0815b2df0772179eb183f8a839f4",
-  "firma": "CA514126AECBA21CE3A8A81CDCB824BD0F04124AFB5010EAF8304FB0E135B0988D85744C8B03743B508A80DFE2ED4D69F8BF06FFD5D3FDFE37D049E7B0FE2104",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.2+3",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-android-v1.0.2-3/VendedorasEF_1.0.2-3_arm64.apk",
+  "sha256": "b4cd26fef07db7c23fcc7cef08279ee3e316ebd8d8701181e4bcb834ee6c5347",
+  "firma": "E8FBE06752121B920CDD9D62C98E30DB21750E2E8BF7DB03D0659BBB412FCF4F77F0AE52E3BC5368B99209AF025B1DB3C6DF27353885E8D77DEE53090B0FE70E",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
