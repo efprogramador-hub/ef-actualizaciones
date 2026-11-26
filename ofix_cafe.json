@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.5-6/OFIX_CAFE_1.0.5-6.zip",
-  "sha256": "ca2d6b899ffadb89ee81c26b751bc1f9d37f204e8cd3b34b486c9056d3ff033f",
-  "firma": "03BAA8D2E61DD97E67090599D5673B9106909BDB7EA1DFAD77DEE21F60F9D7BB63C1E14190A42AB4A15D83E0E5EA7278DD33546B15A48D0B04CEFC9685808A07",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.6-7/OFIX_CAFE_1.0.6-7.zip",
+  "sha256": "ad769268d5e0f01dba131d725f4d106be1cbc3cb799e0efd110ded426f180f85",
+  "firma": "0A44AECA77C91A064A038A7C5CB2D5D76503A81B9AF88DE87C3974684BEF62BD4F6A35A2FE920333D8EF3652C6A05AA002300132DC5D1275461B710B3DA13302",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
