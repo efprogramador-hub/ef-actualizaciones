@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.17+18",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.17-18/RestauranteBarEF_1.0.17-18_arm64.apk",
-  "sha256": "2df2ea71292f52d91afe53ac557367fd4fa49ce27c24406121aa12c68b6c2218",
-  "firma": "7B8E8C1F48AED5103498113E2FD288A397398F10E250F49BB4AA40D250D8EF7B40EAE079D0E6B2B8D94DFA86C47BC7AB238F20080AC6132ABF4DE94194CA9506",
-  "notas": "Todas las casillas de texto en MAYUSCULAS; los correos en minusculas. Ajustes a areas de propina y empleados."
+  "version": "1.0.18+19",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.18-19/RestauranteBarEF_1.0.18-19_arm64.apk",
+  "sha256": "6fe4c7175b39d8ee82b442c415ba892a51e2e08e7d13c1e4735a74e3cd5ba89c",
+  "firma": "962E546C1CE94F14DC648D77EF976727E7B9FB9865B705C0047E3FE798230AE56F5C45CB7B4868F29F44A2A4790D4F32AF029E4027924E28D518A86C91847C0A",
+  "notas": "Cada impresora extra (BARRA, COCINA...) se puede apagar sin borrarla: apagada no sale comanda ni marca errores. Las casillas en mayusculas y correos en minusculas."
 }
