@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe_android_arm32",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.5-6/OFIX_CAFE_1.0.5-6_arm32.apk",
-  "sha256": "284dd6dcdf4ada5768d99cfba253c26a9610091879eb935269dee76b2383a350",
-  "firma": "DAFB1DE4E2899FE1DD97AEA5405559E6730D792724128C164402F76DA5039AA4C838D706424786D968BC990C19FFCF14E3FE9DBEB467FD40127D1ADD7C966002",
-  "notas": "MUESTRA SOLO LA VERSION CORTA"
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.6-7/OFIX_CAFE_1.0.6-7_arm32.apk",
+  "sha256": "4b8dfd14df3c4f46913463c9e820b72e0e2ce22898900c682a5270dd42620d18",
+  "firma": "EA0C5C0B669EF86E5C15B50392C681AE92DECBB68ECF171F8AFE825B213E536459B23E2998F9911FAC2028815DF4D0E39A606CC5F1DF9ABFEF62477FD77B6E0B",
+  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
 }
