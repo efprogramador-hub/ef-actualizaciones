@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.20+21",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.20-21/RestauranteBarEF_1.0.20-21.zip",
-  "sha256": "2e7cb516ca3eb1daf28b279d909f673c4c4ef4fb22fd8332287523299ab4680d",
-  "firma": "DABFDCA3787F41D6D7BA4EC33C2BE44D7CA8D36D0E8A04F4B0B27E14398B43B37AB029C0C7662C749074EBE0AF21972E0A06F84C979CA80BBA06B999A3B2E308",
-  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
+  "version": "1.0.21+22",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.21-22/RestauranteBarEF_1.0.21-22.zip",
+  "sha256": "6eb99d7575fb3a3670f5b844bc8b275c63d1d45d5c0e69b0d84dd4572ad98bb1",
+  "firma": "E815733C860D44E6089E89C66DAB106097E633A1B2EA87D56D80F9F056C739D29761A1D710F6045E3498B397BA4E1C8008F95861F156A81F33D5A245BBF69A04",
+  "notas": "IVA en reportes de productos y por mesero (columnas sin IVA, IVA y con IVA, también en Excel)"
 }
