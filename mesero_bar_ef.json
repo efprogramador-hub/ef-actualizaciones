@@ -1,8 +1,8 @@
 {
   "programa": "mesero_bar_ef",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-v1.0.6-7/MeseroBarEF_1.0.6-7.zip",
-  "sha256": "024d7df3f695bb129f598abc28bc2e34101e464117d88965ae6a794c788b1baa",
-  "firma": "901D5EE17B5382CC7F97FC59888F0283B7FB7370C9FD429971859A0B0423E4847F59B7A9EF5E52CD8A590C12F11534842EE0F330921E213D01D086B98B152E06",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-v1.0.7-8/MeseroBarEF_1.0.7-8.zip",
+  "sha256": "b4678fa0d616d0e7c8f345266fab78bd261ea3cd5ef25506e1eb89d1b975cc32",
+  "firma": "749DD4C6067BF608342BC5CCC6E4F50538C224193058DDD9B76D35E6230C5CEFD940484214FE5B6A781F820B869E213C8F48C6E0DF6927BD21C4C510D1E63D0B",
+  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
 }
