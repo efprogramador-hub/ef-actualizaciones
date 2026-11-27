@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.6-7/OFIX_CAFE_1.0.6-7.zip",
-  "sha256": "ad769268d5e0f01dba131d725f4d106be1cbc3cb799e0efd110ded426f180f85",
-  "firma": "0A44AECA77C91A064A038A7C5CB2D5D76503A81B9AF88DE87C3974684BEF62BD4F6A35A2FE920333D8EF3652C6A05AA002300132DC5D1275461B710B3DA13302",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-v1.0.7-8/OFIX_CAFE_1.0.7-8.zip",
+  "sha256": "4dbdc3fc075a7b04881074a3883b53b4f8a1ad5b0296ae5f90aa0a4b5e0e19bd",
+  "firma": "BA62DC9E599D8B62DF61B3D460E5E292CAC05052D85A2071C0AC916609AFD79DD526654428FE675440B40F643790EDF1A75478E165B0BC59AFF4BB61BCEF5D0B",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen, por producto y por mesero) y sin barra de desplazamiento en pantalla táctil."
 }
