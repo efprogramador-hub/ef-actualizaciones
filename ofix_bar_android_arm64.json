@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar_android_arm64",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.6-7/OFIX_BAR_1.0.6-7_arm64.apk",
-  "sha256": "a36d8640da8296314b3fd55ad263a7cf30c550cdfd3b042fa706ceecac38c06a",
-  "firma": "FBAD9ECD8376B443485948ED6C95E9B4AF93BFB3E8CDA66C72B0E6B8C9C254F0A8C8977291E8A592EC46B8A5063DBE8E3422F4E3000837EEA2C79D2ABDC24708",
-  "notas": "OFIX_BAR: el correo se escribe en minusculas."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-android-v1.0.7-8/OFIX_BAR_1.0.7-8_arm64.apk",
+  "sha256": "4d6f3f918d905ab05e0d42f75e3feca5d4852ef3259b205c72630b96ddc42293",
+  "firma": "A42356EC748D349BA0FF0BBD959986CE6BC90192BE0402C3F344A11E9D7720EFBA1C9B4D5DBC5372019253608DA99F1E379221EFE74299C74760C854462CA20C",
+  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
 }
