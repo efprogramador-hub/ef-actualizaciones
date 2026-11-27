@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.10-11/TortilleriaEF_1.0.10-11.zip",
-  "sha256": "5e0b33668395d922c3c21066a224378b2aeaa8c06da90a4daeec7e08dd11685a",
-  "firma": "2442228845EA3B06FEF0412FD90EF3E28FAD8D71D8251F52CDF32B716C01367BD70183038B1B54B2099505CC70A6E17C52EDF20959D19583C1B861C82C134B0D",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-v1.0.11-12/TortilleriaEF_1.0.11-12.zip",
+  "sha256": "69964977c9168728e95c6d0930653a60ce865d4e8d11ee31e7181a02ab30b850",
+  "firma": "EA4C668A7006727B86A6F00EC945126C78D1F8F0E72C1D21D859D5989180B32C4CB604038F1DB4847CE1D0A22313B91DE6D09260255332FB832CB782918B4B05",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes; la tasa del negocio de fábrica es 0 %) y sin barra de desplazamiento en pantalla táctil."
 }
