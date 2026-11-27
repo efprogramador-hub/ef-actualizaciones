@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.15+16",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.15-16/CafeteriaEF_1.0.15-16_arm32.apk",
-  "sha256": "e8ee34cdf3ca25ce54e8fab93070ec07b7e70751709564fc618347eba91689a4",
-  "firma": "C54EEB354136CFD4854CAB29A99C7EBE4EBFF9C489C9B1449B0204CD765BE0FAE7E7CE9082847BAC42CBF30CF61F61F9AC4E2F869A7BE16A438AF8150F481207",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes), propinas con desglose por cuenta y reparto por áreas, impresoras apagables, lo que hay en el cajón al final de cada bloque del cuadre, y sin barra de desplazamiento en pantalla táctil."
+  "version": "1.0.16+17",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.16-17/CafeteriaEF_1.0.16-17_arm32.apk",
+  "sha256": "13583e0b6e51d89b60990bd019154587c39d738cf23a49356791edf7431e352e",
+  "firma": "18A8B4D37428C4FABBC5964E3179C325F9C4238A833AFBB994CAAC6E61E48C25468EA57834A8D773FEE0193C85CDB825D031C724F0072EB1B447CF1B977EFB03",
+  "notas": "Propinas: la columna MÉTODO pasa a CONCEPTO (SERVICIO 10% / PROPINA 15% / PROPINA 20%), en la ventana de entregar, el recibo, la pestaña PROPINAS y el Excel."
 }
