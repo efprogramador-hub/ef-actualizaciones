@@ -1,8 +1,8 @@
 {
   "programa": "mesero_cafeteria_ef_android_arm64",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-android-v1.0.2-3/MeseroEF_1.0.2-3_arm64.apk",
-  "sha256": "0bde9ba4e0288d26bc1026b5a8140f91f96c8cb40d0249c1163ed5a014d36f47",
-  "firma": "ECEB6DE57AE2B9B94C465715BFCCE376EC0A8B6A0EDD05116F6C1244D6BDA0690AC3A6D57322D66835366232E0EC50BCEA5862FBCE5EC270B87AFEE8C5FEDB03",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-android-v1.0.3-4/MeseroEF_1.0.3-4_arm64.apk",
+  "sha256": "c103b839fee9744445aa950ec53793f3ff700b28f1f994e34e4025e4bfd9faf7",
+  "firma": "EE98BC2E136421A8255645566AC5C87264D7731DBCD8D58EC9B1F1FAE1951D1D30E547D49E57F63F06CEC60ACD28CBB198E0303691AB7A2E7642778DE1E3E607",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
 }
