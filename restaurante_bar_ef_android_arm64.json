@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.22+23",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.22-23/RestauranteBarEF_1.0.22-23_arm64.apk",
-  "sha256": "6ff480f5f90fb67494bc625a38ad56c2abd7686b6117b75a64195e49d92cbce6",
-  "firma": "300BE180139823828414EA1A0400082EDFF4D8B9B143A2A2235D09321D43E76D554F6C428E6068963D0A74C763AD440619ABF565B875532F49DEB8A25B4D4F0F",
-  "notas": "IVA completo: descuentos, por mesero impreso, OFIX por producto y mesero"
+  "version": "1.0.23+24",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.23-24/RestauranteBarEF_1.0.23-24_arm64.apk",
+  "sha256": "1ad6838df78dda1a24ba9b88ae2486baf2eabda404031e414c0fdc7c8c866b8b",
+  "firma": "98659BDC4D49719123373FC99B323DFFC9192303480FA2C394E7876A0D79E6AEFB5EEF95EBEBA70AFE3DCEC24C6A09DC33F4146A7A1B7B6A8C9B8F111D2BB805",
+  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
 }
