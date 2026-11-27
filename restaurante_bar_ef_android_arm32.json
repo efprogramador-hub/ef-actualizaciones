@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.21+22",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.21-22/RestauranteBarEF_1.0.21-22_arm32.apk",
-  "sha256": "5f20dcfd012c14d7debbc93bb8a831e5a5e52c7a68e188cb0f083552b12ca31d",
-  "firma": "6A8950B5A664CF3F617C73E8909EC93BFB6F26B243712F987DAF5F8D8AB64AF02577B9427DCFA656D13A1DC2624EDC61750EB9D3E062D59CB67AE8E63952E807",
-  "notas": "IVA en reportes de productos y por mesero (columnas sin IVA, IVA y con IVA, también en Excel)"
+  "version": "1.0.22+23",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.22-23/RestauranteBarEF_1.0.22-23_arm32.apk",
+  "sha256": "b834751e424be00659f4e1c9b6db0d22780347b3a1905924a57ff6d5a99146be",
+  "firma": "C1389F98D477CA7513953AD84AAB99B2E37085A4BFE331BC0DF1E3230CC09082513E52B453D7C90DFE38F5EBC6919F12EEE03010D5CC66E9AAAE877898638C03",
+  "notas": "IVA completo: descuentos, por mesero impreso, OFIX por producto y mesero"
 }
