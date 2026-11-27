@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.19+20",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.19-20/RestauranteBarEF_1.0.19-20_arm64.apk",
-  "sha256": "30d40216323f89a8d93ca55f2e54d5d878f99f2cc081d18fa7fa2c920a6c4c0c",
-  "firma": "7888C1BC3C78E762881EADF8675DC355503766A128D7BE3349E1A5E0E3B0CF1DB681B00BE952BCAD5F9B58A980C1C7927DEE3347BD4CDD2FF974E564366A2B09",
-  "notas": "Las comandas asignadas a la impresora de CAJA tambien respetan USAR IMPRESORA: apagada, no salen ni marcan error. Interruptor para apagar cada impresora extra."
+  "version": "1.0.20+21",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.20-21/RestauranteBarEF_1.0.20-21_arm64.apk",
+  "sha256": "07ac48fdd33adbbe8632c92f448bb0eeaed41db340b3cd522f487dd1e436dcaf",
+  "firma": "4454D78B060B86B176A740ADBDF4CD43ECC5A726D97FDF44321AA1B4C48990F6C66CD49E5438A5B76DECB3BAD2E3B8CABC88868D8AE2692B60B746706F875E01",
+  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
 }
