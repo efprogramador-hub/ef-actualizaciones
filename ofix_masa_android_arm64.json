@@ -1,8 +1,8 @@
 {
   "programa": "ofix_masa_android_arm64",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-android-v1.0.4-5/OFIX_MASA_1.0.4-5_arm64.apk",
-  "sha256": "3025a06286367c67a27e7bc9461b4aee57bde051b605b41ba9e4f6520a4b9e82",
-  "firma": "499EDE436B0B0D2367B55912581ABEA783601F13E100926358A0C0196396C3FDDCFBD4B3A2A11A8466C2FF9A7C6D5BAE22001C1E39501D9579FAB6CE64ABAC00",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-android-v1.0.5-6/OFIX_MASA_1.0.5-6_arm64.apk",
+  "sha256": "0f6e53876d95a951a17de1923fabc47700a45a820ec859a5b451014bf857f38f",
+  "firma": "D14B7FACC9547FC885A23B02C4225E1244B6C5788F7284545DEF6A654A2257D3228AAF415C34539607FD3F63917C827D1BFB2C5152664282FFDC221F0D734501",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen y por producto) y sin barra de desplazamiento en pantalla táctil."
 }
