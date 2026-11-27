@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.7+8",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.7-8/OFIX_BAR_1.0.7-8.zip",
-  "sha256": "2fd4a3447a438b107bf137c28010e810dfa97e3dd939f56451ce8240f4a10807",
-  "firma": "90DE321ADB3CEAE8DDD778D715AFBB10E9312A6311F35591DDE19B2CA67EF9831A91F2B0D74927C6886052C221BD67AD59F4BAC4DA5AA5EB4DE89AE98E182E0A",
-  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
+  "version": "1.0.8+9",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.8-9/OFIX_BAR_1.0.8-9.zip",
+  "sha256": "46d2379a673e5ac1136f62c057ef5942227da1ddc6e1c8bfae320c71a387333d",
+  "firma": "980E48EF17BAC4E35B15836EB52AEA3FE4218FD2FCC8E2B3A7C72BA05C06CF3A47BE4B4903A69D649E0C97D2E0BF0D3E57D7F3837E63079966C08B78A135DB0C",
+  "notas": "IVA completo: descuentos, por mesero impreso, OFIX por producto y mesero"
 }
