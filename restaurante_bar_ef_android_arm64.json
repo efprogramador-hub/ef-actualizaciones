@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm64",
-  "version": "1.0.24+25",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.24-25/RestauranteBarEF_1.0.24-25_arm64.apk",
-  "sha256": "62c4692a1f68e8ffc84d66b5c59e63110996026fc75b6b2f3ad01ea797fe8f7e",
-  "firma": "969555BC7E71F00B455568BF87D8E31A29A399D54DB9D196FC8F4F560C985D83448134EE89EE42445ADEAC28AE7F71D67D76FC62334053549EF65070E4FCFA04",
-  "notas": "Propinas con desglose por cuenta al entregar y en el recibo; nueva pestaña PROPINAS en Reportes; en el cuadre de caja, lo que debe haber en el cajón va al final de cada bloque."
+  "version": "1.0.25+26",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.25-26/RestauranteBarEF_1.0.25-26_arm64.apk",
+  "sha256": "28ae166077bc1b5c8c93e40afcf6d7260a216af1587514d8f99c6050c2772068",
+  "firma": "303EDBCA7EA9142D0DCED0060A299BFA1D444B5181054F7C8D005D4B4901B3CC48D86E088D46BA6802ED14305F92DA6F4C2BC6135C45D3B49B6E1F39B44F3609",
+  "notas": "Propinas: la columna MÉTODO pasa a CONCEPTO (SERVICIO 10% / PROPINA 15% / PROPINA 20%), en la ventana de entregar, el recibo, la pestaña PROPINAS y el Excel."
 }
