@@ -1,8 +1,8 @@
 {
   "programa": "tortilleria_ef_android_arm32",
-  "version": "1.0.10+11",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.10-11/TortilleriaEF_1.0.10-11_arm32.apk",
-  "sha256": "d9141cebd2863dd951cc77e46e220850baaf20b53e4c2c88365a521c6fd96fcc",
-  "firma": "FB5CC1DC77ACDBA2446AB566403B947A1AD0DC0AB0D33528A6BD4AD16E0356D2EEEE2348BF7D9B61161C6D13F136F174BD889D2E67213BD4062202F3DDFF130B",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.11+12",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/tortilleria_ef-android-v1.0.11-12/TortilleriaEF_1.0.11-12_arm32.apk",
+  "sha256": "4286d308533202873f534eb7db62e8152eb8f8a3ddf06e76ecb060bdd8d9daad",
+  "firma": "EACABA36A39B593730735CB0CC0A7E918D6136EF5A7B0F4398F3AE90521FE48300BB07D64862D1FC51898C5C63E5B313B6C478AD30047C75406D469C4BD7B60D",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes; la tasa del negocio de fábrica es 0 %) y sin barra de desplazamiento en pantalla táctil."
 }
