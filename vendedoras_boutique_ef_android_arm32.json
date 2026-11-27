@@ -1,8 +1,8 @@
 {
   "programa": "vendedoras_boutique_ef_android_arm32",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-android-v1.0.2-3/VendedorasEF_1.0.2-3_arm32.apk",
-  "sha256": "145c3912e017d7315a56e83785c495980181581816df990ebd89341772c64e47",
-  "firma": "118317CF7A8712F407CE32A269986DFC929015703F4308FF63AED95575563E7F939233BCFECA5C68D920937CC1583C5B689EBA1B4108DA9B436080ACF511EB04",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-android-v1.0.3-4/VendedorasEF_1.0.3-4_arm32.apk",
+  "sha256": "9d846d439107ff325ab961f2a03030f5483a6c8e9989b3572fc3da027281565f",
+  "firma": "DF0992F72BD0E8FB84C260C58954F1BCD436D6A1F1E2553B6ED0ED07CE5AD96DA93FE884BF35E184D63856F67CE0C3E4CF244EC1F7E62D4D2560450EA1769F08",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
 }
