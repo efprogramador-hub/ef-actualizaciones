@@ -1,8 +1,8 @@
 {
   "programa": "mesero_cafeteria_ef",
-  "version": "1.0.3+4",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-v1.0.3-4/MeseroEF_1.0.3-4.zip",
-  "sha256": "9d574da43ba55f817090f80bb906312e6495e02e11b829df0b088b16ce10f560",
-  "firma": "F96468169C098AA497372D1E6B6D5B072ED99B9052B212091FCD12A8B43F9BAAEF59259BAD2BE8C9005A336FA4AC09EACA73E47EA5F8B8E58952170F67932C07",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
+  "version": "1.0.4+5",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-v1.0.4-5/MeseroEF_1.0.4-5.zip",
+  "sha256": "e1381216df3bf3ad4d44be60110b9d3c4d239dad19acd635bdab501611b2290e",
+  "firma": "7BF1C3BD652219E2FD7A45245BBABF409D9A72025F8E0D94A00946557ADA096BBDA951C27B53B3232CB34C0566B35EFBDA670192EBB2A2E7A174B9BB5686C50F",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Versión recompilada."
 }
