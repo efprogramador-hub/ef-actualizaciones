@@ -1,8 +1,8 @@
 {
   "programa": "ofix_masa",
-  "version": "1.0.4+5",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-v1.0.4-5/OFIX_MASA_1.0.4-5.zip",
-  "sha256": "4ce85bb4ab27b285a32b6e578a24b8604473f2578e5d7666a25ba16e7179fab9",
-  "firma": "9EA64585A44A246CFF78EA2F196249252F06C5365E4CCE9F274EEFEF19532BFC2721399BC17D4D88433BCC24B99F233F25A16D43CC7E4775E68B91C21ED85B07",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.5+6",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_masa-v1.0.5-6/OFIX_MASA_1.0.5-6.zip",
+  "sha256": "6379d9e562b0e617b1249a0fa2eb053f5267fde3b9eca4b03acaae5b3e569d18",
+  "firma": "FC131C03139979245EBEA6FA5FEDFEA7E9F24F27A607C7FC38A82E484BBF1059FB1578E490287C5AD0D8A9922EFC59D744A7AE259F2EB309429CCD15E476AE06",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen y por producto) y sin barra de desplazamiento en pantalla táctil."
 }
