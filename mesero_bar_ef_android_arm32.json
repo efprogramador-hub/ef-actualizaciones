@@ -1,8 +1,8 @@
 {
   "programa": "mesero_bar_ef_android_arm32",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-android-v1.0.6-7/MeseroBarEF_1.0.6-7_arm32.apk",
-  "sha256": "0e75ea7e4ff3593e428f2ec2ed3a6f6fb4b1b9e337f3b752d0f391f8ec7fa17b",
-  "firma": "9E61582C9970AA2D009381CDC853490086DD1CCADED07F78CCF6CA36CDDC188BC030BFD419515A91BD6D28CA37F6AEB07EA0523DBD1DE1730F83F1C15F54B707",
-  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_bar_ef-android-v1.0.7-8/MeseroBarEF_1.0.7-8_arm32.apk",
+  "sha256": "71264541e1c7c2510ccbb72c171e6a7751f4e23450a27b3ade47567f982f87e3",
+  "firma": "114FB3AB53B9B8E548E86BE996E74EAAB07EE11CC132DA2E400C55B0604DB34600C60E8D94214519DCB05E7337CACE1F0A5BB008E0A316275068CE6AB6B9AC07",
+  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
 }
