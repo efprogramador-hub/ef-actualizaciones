@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef",
-  "version": "1.0.14+15",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.14-15/CafeteriaEF_1.0.14-15.zip",
-  "sha256": "4e706ad2bf85cc136aedbe42b87b3ec867ed1850f830e65e93dc196c00b67ee7",
-  "firma": "0C268FDDAF74A1A5C944454D9CBE5982F1FEA619489216FC47976EE47BAC0D0AAC67870543067E84CEB206CCAF09C3C72FBFBB741F45C4E38971958EB8BF2205",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.15+16",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-v1.0.15-16/CafeteriaEF_1.0.15-16.zip",
+  "sha256": "0863973db5855ea9951c2006c6d0944f7361e5b394e20df4453bdd6c94503926",
+  "firma": "19D7920A0782982F9A17A52B14F9421B431DD7F3935C3A601D72A959DB48950178255A0652CD74FC783E9D05A7A24B9BA91C90A4952D985574581C0AD22E4203",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes), propinas con desglose por cuenta y reparto por áreas, impresoras apagables, lo que hay en el cajón al final de cada bloque del cuadre, y sin barra de desplazamiento en pantalla táctil."
 }
