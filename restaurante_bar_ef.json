@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.23+24",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.23-24/RestauranteBarEF_1.0.23-24.zip",
-  "sha256": "ba48605992512d24631a952bd5e0c5f4a8213007c9c9611f36bdc7ce4dda252e",
-  "firma": "4467FB84DD341FCAB2A48AD6246B4F52F6A1AECF777EE4789CC8F538E2442C1AA0E897B2FFE85C9FD880C3F4B87F42F47ED354A8A2844C91FC320A66891E2306",
-  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
+  "version": "1.0.24+25",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.24-25/RestauranteBarEF_1.0.24-25.zip",
+  "sha256": "a0c928eb24dded4e5a45c22ac2f42939e6bb4bd174c69d7c93084d0b3c96f379",
+  "firma": "404FB685E8E587217C5D0236BDBA91B12FEDF9227514F9FF1060D06E1A036A6BBC09C2756537CEF53178D3E614EB2C93CE3AAFB125C4117B49E9355178BB1B00",
+  "notas": "Propinas con desglose por cuenta al entregar y en el recibo; nueva pestaña PROPINAS en Reportes; en el cuadre de caja, lo que debe haber en el cajón va al final de cada bloque."
 }
