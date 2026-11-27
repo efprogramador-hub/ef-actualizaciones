@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa_android_arm64",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.5-6/OFIX_ROPA_1.0.5-6_arm64.apk",
-  "sha256": "c3ca74a88466b1a3cabb909b4d26b888167717a7d0d8d586de2fd70612582cb9",
-  "firma": "BD07E0078BDFE4A3E3FD5DB3D4CA513FED74D7C225E2AD10834B8003883833AEB2176E660B1E5E241BDD72B36769CBDDA5068D59FB17B78F43DDC9D382528108",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-android-v1.0.6-7/OFIX_ROPA_1.0.6-7_arm64.apk",
+  "sha256": "628190880cf520fd7470b8af55bab464b65e52d94cc74d880f372afa86cc7f40",
+  "firma": "8CD765AD9629A7CD0FD12F2828732B53DFBDA62A4B04F6F4B31ACC55E119D7300D4C8D7E12FE077ED3E2095915D7BDAD05B5B76FCB40C9502C21871C06540C0B",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen, por producto y por vendedor) y sin barra de desplazamiento en pantalla táctil."
 }
