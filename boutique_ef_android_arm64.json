@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef_android_arm64",
-  "version": "1.0.13+14",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.13-14/BoutiqueEF_1.0.13-14_arm64.apk",
-  "sha256": "be86a8098ade9c75ccd3b2d99007a87a4b317a9068365cbea5a64f78cd5436a1",
-  "firma": "31F11DD62FD6860816559B10D0DDFF45211E8296AF5ED6BA69E6406EB761341B5C4D7DE99C7CBC1D71D66010F354919880E3C1F09019666F87A27F81C4101E0C",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.14+15",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-android-v1.0.14-15/BoutiqueEF_1.0.14-15_arm64.apk",
+  "sha256": "0a0e747ccb7a688c5e69f3a8a65779a7706e12327ee7c4b6da69dac1bc71c3e8",
+  "firma": "BCC576DC267DBEFBBF91E7F45F210AF7C92B3E0EFE6744CD52593056DA496497F0F0BF0E614C8A1B1F9ACD3EC9AA159F0C45CD2DE6EEBFD14F3582DBA428860E",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes), impresoras apagables, lo que hay en el cajón al final de cada bloque del cuadre, y sin barra de desplazamiento en pantalla táctil."
 }
