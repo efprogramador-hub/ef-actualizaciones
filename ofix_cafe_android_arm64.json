@@ -1,8 +1,8 @@
 {
   "programa": "ofix_cafe_android_arm64",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.6-7/OFIX_CAFE_1.0.6-7_arm64.apk",
-  "sha256": "aac3861acf01405965fbbe9539e5778410e6bd3c24dffeaea49da5a049cdaf2b",
-  "firma": "D3CE31AADACB9B1D2CDB512AFE0F5C6F4F1B89D10174949C7D86CF42751E080AEA773C12BEC601E3A74EFE6EAEFC83F49DDF9E0A5B7D04AD882D92A6C9CB6B01",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_cafe-android-v1.0.7-8/OFIX_CAFE_1.0.7-8_arm64.apk",
+  "sha256": "a503475c046073b8ead83cd7fe20969014dd6859628f2179367e15919e05ecbd",
+  "firma": "DE45216EBA40E8D1F5A59ACDDDF21599ECB13B149681E2E48064BDC068B8F32D58565D3D94F017895EC3CF5654C871F2D8B161F6E328C6CA2A92C3966D90B902",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen, por producto y por mesero) y sin barra de desplazamiento en pantalla táctil."
 }
