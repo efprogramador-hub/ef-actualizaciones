@@ -1,8 +1,8 @@
 {
   "programa": "boutique_ef",
-  "version": "1.0.13+14",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.13-14/BoutiqueEF_1.0.13-14.zip",
-  "sha256": "ab58ae25c53afab5135dffde0d7bc3539dc3cc798bc4aa6390ae6542db243c25",
-  "firma": "522A38258F7DF03CD350C97673E25C555E508CBB19FDDB16482A199BA92F38670DE15D63E78006F7CE8DBFDCF9B8ACC302B03131D2B6DA0D5FAE1A519EB66106",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.14+15",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/boutique_ef-v1.0.14-15/BoutiqueEF_1.0.14-15.zip",
+  "sha256": "5b18eed997af01b64392c82646eaa44440c492efeedb2c97914a7978e7ea5c8c",
+  "firma": "4E33435F3E603249F09412193ABF9B67225035861A5636C21ADFD13443A8E393DAA32DD7CFE943DE350D8BA414F2235155B2F003C94A513A5ED8BA7832FF5300",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes), impresoras apagables, lo que hay en el cajón al final de cada bloque del cuadre, y sin barra de desplazamiento en pantalla táctil."
 }
