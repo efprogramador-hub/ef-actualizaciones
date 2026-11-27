@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.22+23",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.22-23/RestauranteBarEF_1.0.22-23.zip",
-  "sha256": "84fec5ef48b64f33a7757551d295830131c5bbf0603bfdb505da7f5312ff944b",
-  "firma": "5B28CA8A71AD11D77585BFDB884FA2C7BD282FD65C4686F4E7AB007D3E5A0868C4220327B716E398AF86CF62DC4D2D30A1376F27E870988466F9D6C8E46D1203",
-  "notas": "IVA completo: descuentos, por mesero impreso, OFIX por producto y mesero"
+  "version": "1.0.23+24",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.23-24/RestauranteBarEF_1.0.23-24.zip",
+  "sha256": "ba48605992512d24631a952bd5e0c5f4a8213007c9c9611f36bdc7ce4dda252e",
+  "firma": "4467FB84DD341FCAB2A48AD6246B4F52F6A1AECF777EE4789CC8F538E2442C1AA0E897B2FFE85C9FD880C3F4B87F42F47ED354A8A2844C91FC320A66891E2306",
+  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
 }
