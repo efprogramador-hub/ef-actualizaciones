@@ -1,8 +1,8 @@
 {
   "programa": "ofix_ropa",
-  "version": "1.0.5+6",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.5-6/OFIX_ROPA_1.0.5-6.zip",
-  "sha256": "60811101e24e56fdc913ff18a4e4bb702af8a50ab65cc75a1015f20c2ecdf9bf",
-  "firma": "1F3633559B045261B2A44A766631ACB642C6639235C2F577BE387557C088C11B3FEC51C7DDCD5A109FDDA38D68464828913C2E7F834BFA038553D2E024DFC20F",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.6+7",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_ropa-v1.0.6-7/OFIX_ROPA_1.0.6-7.zip",
+  "sha256": "86d4af778c4aa480fab0754d06271108c53e52f87c42d3a3a16b73983ce96155",
+  "firma": "3B711B46866E55345812B1D48B9F3D48B2B949D5022C5322F3BAF13CCEFD23CC3C98F43E9807B76D18EC5FFEF7B18AF38F06DA0FABB8D130C754DA3509F6CC06",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Muestra el IVA (resumen, por producto y por vendedor) y sin barra de desplazamiento en pantalla táctil."
 }
