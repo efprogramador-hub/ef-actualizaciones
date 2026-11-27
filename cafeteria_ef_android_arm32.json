@@ -1,8 +1,8 @@
 {
   "programa": "cafeteria_ef_android_arm32",
-  "version": "1.0.14+15",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.14-15/CafeteriaEF_1.0.14-15_arm32.apk",
-  "sha256": "90183087716d6016eff08ddf8462c7b14e0792db5bbd1b9115eed4ab82504174",
-  "firma": "F0D1A583007FBEC4172F603849816114C368E077C14A13F0B9285D6B848F7EF6DA4920AD9DD704C306E587FE0219783193AA24DC8F3D33445FCE1AD6408A7E02",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.15+16",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/cafeteria_ef-android-v1.0.15-16/CafeteriaEF_1.0.15-16_arm32.apk",
+  "sha256": "e8ee34cdf3ca25ce54e8fab93070ec07b7e70751709564fc618347eba91689a4",
+  "firma": "C54EEB354136CFD4854CAB29A99C7EBE4EBFF9C489C9B1449B0204CD765BE0FAE7E7CE9082847BAC42CBF30CF61F61F9AC4E2F869A7BE16A438AF8150F481207",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. IVA completo (tickets, cortes y reportes), propinas con desglose por cuenta y reparto por áreas, impresoras apagables, lo que hay en el cajón al final de cada bloque del cuadre, y sin barra de desplazamiento en pantalla táctil."
 }
