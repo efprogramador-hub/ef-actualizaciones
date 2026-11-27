@@ -1,8 +1,8 @@
 {
   "programa": "vendedoras_boutique_ef",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-v1.0.2-3/VendedorasEF_1.0.2-3.zip",
-  "sha256": "8f33a235a90533cf6248b70243d152811086d538fec4691019a8928257fe7e6c",
-  "firma": "6C43EF59ACE1B858E32041B56C7E7D75C27C614215165E8D00B665560996229BE5EEB166C9BEC4BFBD0ABAFA46C1A91F001545E58EDAFBF7E0369E400FAE1603",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/vendedoras_boutique_ef-v1.0.3-4/VendedorasEF_1.0.3-4.zip",
+  "sha256": "798e1f1a1a13e61a25419ed22b86864f31b5209ff4d5a7f2d82cfde1adc0ab07",
+  "firma": "E1F583D45F41C1AAD1A20314EAB4499F56A11B72DC0894B0325303E4A05AA3C73141587359512C786AA329E25D1A9A215E6B8F2484BA26CFA9430DA3305BAD0B",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
 }
