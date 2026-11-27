@@ -1,8 +1,8 @@
 {
   "programa": "mesero_cafeteria_ef",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-v1.0.2-3/MeseroEF_1.0.2-3.zip",
-  "sha256": "42ae58aee6ddc183b8082ddf2a661eb6094a51b2becb3f0b8ea61cee39dc99f0",
-  "firma": "62B668E64448F9CDAB915F2F5584A709844587EF47CCCE7C9FFA82E0A556F76AF1C9DE48C98EA14B6FC9D84C46633CDC4BF4FB11926D36BF59BE72F61A944408",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/mesero_cafeteria_ef-v1.0.3-4/MeseroEF_1.0.3-4.zip",
+  "sha256": "9d574da43ba55f817090f80bb906312e6495e02e11b829df0b088b16ce10f560",
+  "firma": "F96468169C098AA497372D1E6B6D5B072ED99B9052B212091FCD12A8B43F9BAAEF59259BAD2BE8C9005A336FA4AC09EACA73E47EA5F8B8E58952170F67932C07",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
 }
