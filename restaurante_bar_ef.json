@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef",
-  "version": "1.0.19+20",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.19-20/RestauranteBarEF_1.0.19-20.zip",
-  "sha256": "3324348a37fbc101e7f9c8d6ee359391af56a358b4c46cc42f217815151fe9e8",
-  "firma": "25ACC05BD912934A70BE24F3700DC521BC51EC9F567E33AA4FE6B543E29219AA06FDD957C4E35F60A0F70E3E9EC48DE87C4C690C1811938176D1751990487702",
-  "notas": "Las comandas asignadas a la impresora de CAJA tambien respetan USAR IMPRESORA: apagada, no salen ni marcan error. Interruptor para apagar cada impresora extra."
+  "version": "1.0.20+21",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-v1.0.20-21/RestauranteBarEF_1.0.20-21.zip",
+  "sha256": "2e7cb516ca3eb1daf28b279d909f673c4c4ef4fb22fd8332287523299ab4680d",
+  "firma": "DABFDCA3787F41D6D7BA4EC33C2BE44D7CA8D36D0E8A04F4B0B27E14398B43B37AB029C0C7662C749074EBE0AF21972E0A06F84C979CA80BBA06B999A3B2E308",
+  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
 }
