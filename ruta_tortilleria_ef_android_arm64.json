@@ -1,8 +1,8 @@
 {
   "programa": "ruta_tortilleria_ef_android_arm64",
-  "version": "1.0.2+3",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ruta_tortilleria_ef-android-v1.0.2-3/RutaTortilleriaEF_1.0.2-3_arm64.apk",
-  "sha256": "56582ffe8b86633bd80eaf803019e5efb99a9680fc29f2a52c4006c39684a659",
-  "firma": "91EEF5ECA79F4CF8C92D3E2C58EBA691CF43BB034CCAF4947F1AD41F01607839939A94DC69E604F0FD6071CD4F0757C5484AB2833F92AC912996FE13A33EFC02",
-  "notas": "Barra de desplazamiento solida con su franja (solo si hace falta). Todas las casillas en MAYUSCULAS y los correos en minusculas. Interruptor USAR IMPRESORA en las cajas."
+  "version": "1.0.3+4",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ruta_tortilleria_ef-android-v1.0.3-4/RutaTortilleriaEF_1.0.3-4_arm64.apk",
+  "sha256": "16e4c438cc9bf6559c387a7d9e1b2efd28f07d1e74aee745d91c8591fe90023e",
+  "firma": "0904FA30C52CF6DFF5E6BA372394992D7EA79EBD57AEE8B7F93DDD24CCBA8E8429F0042AE166EFA92200FFBE7BBC8685DA6A4E93BA630D8F7857383A1215ED04",
+  "notas": "ACTUALIZACIÓN AUTOMÁTICA: la app revisa GitHub una vez al día, descarga la versión nueva y avisa. Botón Buscar actualización y Actualizar ahora. Sin barra de desplazamiento en pantalla táctil."
 }
