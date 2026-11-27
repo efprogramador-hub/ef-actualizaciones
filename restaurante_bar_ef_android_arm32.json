@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.20+21",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.20-21/RestauranteBarEF_1.0.20-21_arm32.apk",
-  "sha256": "5aa7d8b247f93872d4c2853f26128ed46e7329e7cbea56c4331a07f0f005562b",
-  "firma": "272537E74554AF5F1F4D6693EA4758E6F57DCFA91291D6F64CE41C256BF4101C2CC0221649803E0358FE650D411066B45E362109BF3ED9A3DDCAB29D7882400A",
-  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
+  "version": "1.0.21+22",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.21-22/RestauranteBarEF_1.0.21-22_arm32.apk",
+  "sha256": "5f20dcfd012c14d7debbc93bb8a831e5a5e52c7a68e188cb0f083552b12ca31d",
+  "firma": "6A8950B5A664CF3F617C73E8909EC93BFB6F26B243712F987DAF5F8D8AB64AF02577B9427DCFA656D13A1DC2624EDC61750EB9D3E062D59CB67AE8E63952E807",
+  "notas": "IVA en reportes de productos y por mesero (columnas sin IVA, IVA y con IVA, también en Excel)"
 }
