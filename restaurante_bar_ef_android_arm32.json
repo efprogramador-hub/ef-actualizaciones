@@ -1,8 +1,8 @@
 {
   "programa": "restaurante_bar_ef_android_arm32",
-  "version": "1.0.23+24",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.23-24/RestauranteBarEF_1.0.23-24_arm32.apk",
-  "sha256": "3287a1bc70b6a73a367e04a9520488f4a082c40a2518bdf7d5699d1b7ba6c670",
-  "firma": "3EA034233881E440347A641546A5895886834336FA1D2C91DE9088D2A35D7FDB835D5F8F58CCA6900F98F1BC094A3BE777E5702AC9D7299407C7D7C834B6A507",
-  "notas": "Sin barra de desplazamiento en pantalla táctil; mesas en tablet acostada (4 columnas) y de pie (3); IVA sin líneas repetidas"
+  "version": "1.0.24+25",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/restaurante_bar_ef-android-v1.0.24-25/RestauranteBarEF_1.0.24-25_arm32.apk",
+  "sha256": "51793a71e20f4b869f8360cc89437ffe9bd2cd45a098e6a05d9a9bc24be95ea7",
+  "firma": "434EA7011EF89C6562C77D56938D3B0E00FE26E54222BE26B7201EAE1A98080ACFDCA3A335731DC6CFF797DD9B5174E30622BF4E4A1C3E0C079B7B5AE1AC140F",
+  "notas": "Propinas con desglose por cuenta al entregar y en el recibo; nueva pestaña PROPINAS en Reportes; en el cuadre de caja, lo que debe haber en el cajón va al final de cada bloque."
 }
