@@ -1,8 +1,8 @@
 {
   "programa": "ofix_bar",
-  "version": "1.0.6+7",
-  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.6-7/OFIX_BAR_1.0.6-7.zip",
-  "sha256": "b36d9b14591c9a5790929880854f1139d2f200b6df5bf1e569a09a1518a6f272",
-  "firma": "A1F4C38BFFC37D5811728EB045F5A40457E80E40A30BCD706F0248E7E86B2CCE5A07C4C06577EA725ED542D408F970E6077C863CF5AC4F511B9C7FD1D81D0002",
-  "notas": "OFIX_BAR: el correo se escribe en minusculas."
+  "version": "1.0.7+8",
+  "archivo": "https://github.com/efprogramador-hub/ef-actualizaciones/releases/download/ofix_bar-v1.0.7-8/OFIX_BAR_1.0.7-8.zip",
+  "sha256": "2fd4a3447a438b107bf137c28010e810dfa97e3dd939f56451ce8240f4a10807",
+  "firma": "90DE321ADB3CEAE8DDD778D715AFBB10E9312A6311F35591DDE19B2CA67EF9831A91F2B0D74927C6886052C221BD67AD59F4BAC4DA5AA5EB4DE89AE98E182E0A",
+  "notas": "IVA: tasas 16, 8 y 0 por producto, desglose en ticket, cortes y reporte de ventas; OFIX recibe el IVA"
 }
